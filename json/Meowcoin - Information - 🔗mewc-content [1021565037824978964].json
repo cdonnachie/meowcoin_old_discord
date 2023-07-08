@@ -1,0 +1,689 @@
+{
+  "guild": {
+    "id": "1014698720987709542",
+    "name": "Meowcoin",
+    "iconUrl": "https://cdn.discordapp.com/icons/1014698720987709542/cbfdac18d3b13135885e6d63b34028ee.png?size=512"
+  },
+  "channel": {
+    "id": "1021565037824978964",
+    "type": "GuildTextChat",
+    "categoryId": "1017280535023853568",
+    "category": "Information",
+    "name": "\uD83D\uDD17mewc-content",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "messages": [
+    {
+      "id": "1021565477585174609",
+      "type": "Default",
+      "timestamp": "2022-09-19T23:36:29.625+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://www.youtube.com/watch?v=1az-Rc0hUxQ",
+      "author": {
+        "id": "1014701559101263885",
+        "name": ".meowmancer",
+        "discriminator": "0000",
+        "nickname": "Meowmancer",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1014701559101263885/06cf4b9255f0671601cda8a67d56ee7c.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "How to mine Meow coin on Hive or WIndows",
+          "url": "https://www.youtube.com/watch?v=1az-Rc0hUxQ",
+          "timestamp": null,
+          "description": "How to mine Meow coin on Hive or WIndows\n\nmeowcoin:  https://www.meowcoin.lol/\nTrex miner Github:  https://github.com/trexminer/T-Rex/releases/\n\nFluxpool:  https://fluxpools.net/\nzelcore:  https://zelcore.io/\n\nToday we would like to announce a miner appreciation program. We will be giving one random miner $1000 in Flux every month for the next 1...",
+          "color": "#FF0000",
+          "author": {
+            "name": "The Mining KiiNG",
+            "url": "https://www.youtube.com/channel/UCWQQA1HphH1jH7fi3g0QmLw"
+          },
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/gWEHzbpAmVChOsVbyD3YczyDxVGQEGURLyVFXlj2Maw/https/i.ytimg.com/vi/1az-Rc0hUxQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDD25",
+            "code": "fire",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f525.svg"
+          },
+          "count": 8
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "1021565503531143200",
+      "type": "Default",
+      "timestamp": "2022-09-19T23:36:35.811+00:00",
+      "timestampEdited": "2022-09-19T23:36:42.591+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "video of how to mine",
+      "author": {
+        "id": "1014701559101263885",
+        "name": ".meowmancer",
+        "discriminator": "0000",
+        "nickname": "Meowmancer",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1014701559101263885/06cf4b9255f0671601cda8a67d56ee7c.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1021566100653215764",
+      "type": "Default",
+      "timestamp": "2022-09-19T23:38:58.176+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://www.youtube.com/watch?v=2w1iBYT__aQ",
+      "author": {
+        "id": "1014701559101263885",
+        "name": ".meowmancer",
+        "discriminator": "0000",
+        "nickname": "Meowmancer",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1014701559101263885/06cf4b9255f0671601cda8a67d56ee7c.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Майнинг Мяу\uD83D\uDE3CКоин на RaveOS, meowcoin MEWC",
+          "url": "https://www.youtube.com/watch?v=2w1iBYT__aQ",
+          "timestamp": null,
+          "description": "САЙТ meowcoin https://www.meowcoin.lol/\nХЕШРЕЙТ https://miningpoolstats.stream/meowcoin\n\nБИРЖА https://www.exbitron.com/signup?refid=ID6F4F3DA715\nКошелек  https://github.com/JustAResearcher/Meowcoin/releases/download/V1.0.1/MEOW-Release-Win64.zip\nПрограмма для майнинга https://clck.ru/Sk7Lo",
+          "color": "#FF0000",
+          "author": {
+            "name": "YOBA tube",
+            "url": "https://www.youtube.com/channel/UCJs-cMKNCW6HgayuP4-6qtg"
+          },
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/ZYavCZJPM3N1WiQvrfgclQJ9Xo5KRDwy5IF7Z7xpZxU/https/i.ytimg.com/vi/2w1iBYT__aQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1028115381287649360",
+      "type": "Default",
+      "timestamp": "2022-10-08T01:23:28.359+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://www.youtube.com/watch?v=U9xi5-SzOXg&ab_channel=HawkCryptoMiningCo.",
+      "author": {
+        "id": "116447773188030464",
+        "name": "mana4093",
+        "discriminator": "0000",
+        "nickname": "Mana",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/116447773188030464/3c998ad8e532fe921ec8907b8f8ec3a9.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "What is MeowCoin? | The Introduction! EXCLUSIVE!",
+          "url": "https://www.youtube.com/watch?v=U9xi5-SzOXg",
+          "timestamp": null,
+          "description": "Welcome to the Hawk's Nest! In this video, Andrew from MeowCoin joins us on an exclusive interview! Check it out!\n\nNEW MERCH!\n\uD83D\uDCA5 https://www.cryptee.co/collections/hawk-crypto-mining-clothing \uD83D\uDCA5\n\n➡️ Website: www.hawkcryptomining.com\n➡️ Twitter: https://twitter.com/HawkMiningCo\n➡️ Tik-Tok: https://www.tiktok.com/@meetmikeymike\n➡️ Instagram: @hawkcr...",
+          "color": "#FF0000",
+          "author": {
+            "name": "Hawk Crypto Mining Co.",
+            "url": "https://www.youtube.com/channel/UC8LjRXA2fRbXfwUb76z2PeA"
+          },
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/F4LvMhXN6hysqXbshxTj64RpmlWtSj12CbIcyQMuRe8/https/i.ytimg.com/vi/U9xi5-SzOXg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83E\uDD70",
+            "code": "smiling_face_with_3_hearts",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f970.svg"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "1028115514217742486",
+      "type": "Default",
+      "timestamp": "2022-10-08T01:24:00.052+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://youtu.be/L2KLNh6Mwa4",
+      "author": {
+        "id": "116447773188030464",
+        "name": "mana4093",
+        "discriminator": "0000",
+        "nickname": "Mana",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/116447773188030464/3c998ad8e532fe921ec8907b8f8ec3a9.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "VIEWER CALL IN - ETHEREUM, CRYPTO, ERGO, FLUX, Meowcoin ?",
+          "url": "https://www.youtube.com/watch?v=L2KLNh6Mwa4",
+          "timestamp": null,
+          "description": "VIEWER CALL IN - ETHEREUM, CRYPTO, ERGO, FLUX, Meowcoin ?\n\n✅Sub to Hawk Crypto:https://www.youtube.com/c/HawkCryptoMiningCo\n✅My Discord: https://discord.gg/Zbn4Wkd\n✅Instagram: https://www.instagram.com/dj_mines/\n✅Twitter: https://twitter.com/djwaters​\n✅Tik Tok: https://www.tiktok.com/@djmines\n-----------------------------------------------------...",
+          "color": "#FF0000",
+          "author": {
+            "name": "Dj Mines",
+            "url": "https://www.youtube.com/channel/UCKuSJUbb5BUWaugO1vw8vGg"
+          },
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/98TGrOif1uKJMNN_0473OC87ZOefMqWm0RP0YAArTG0/https/i.ytimg.com/vi/L2KLNh6Mwa4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1028177952233496636",
+      "type": "Default",
+      "timestamp": "2022-10-08T05:32:06.435+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "For everyone wanting to run a node on Windows. Thank you to one of our community (I’m not sure if he wants to be dox’d; will update if he gives permission).\n\nhttps://medium.com/@meowcoinlol/how-to-run-a-meowcoin-full-node-on-windows-cfa9c35a4f2b",
+      "author": {
+        "id": "1014698455400190013",
+        "name": ".meowman",
+        "discriminator": "0000",
+        "nickname": "MeowMan1984",
+        "color": "#CEF031",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1014698455400190013/6cbf6631eed13e5b247b3673e244c85f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "How to run a Meowcoin Full Node on Windows",
+          "url": "https://medium.com/@meowcoinlol/how-to-run-a-meowcoin-full-node-on-windows-cfa9c35a4f2b",
+          "timestamp": null,
+          "description": "What is Meowcoin?",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/WuKf0lIuIEyI3MXVWRUTvdBaTRCJMTnC_1W_ROl9tyU/https/miro.medium.com/max/479/1%2AU35uNz1_6oN18_jnROWa9g.png",
+            "width": 479,
+            "height": 331
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDC4D",
+            "code": "thumbsup",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f44d.svg"
+          },
+          "count": 13
+        },
+        {
+          "emoji": {
+            "id": "1024453206459306024",
+            "name": "tick",
+            "code": "tick",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/1024453206459306024.png"
+          },
+          "count": 3
+        },
+        {
+          "emoji": {
+            "id": "1024512428161105970",
+            "name": "MEOWCAT",
+            "code": "MEOWCAT",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/1024512428161105970.png"
+          },
+          "count": 3
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDCAF",
+            "code": "100",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f4af.svg"
+          },
+          "count": 3
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "1028533738814050405",
+      "type": "Default",
+      "timestamp": "2022-10-09T05:05:52.566+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://www.tiktok.com/@miningmunkey/video/7148785668053896454?_r=1&_t=8WLvzWfquQc&is_from_webapp=v1&item_id=7148785668053896454",
+      "author": {
+        "id": "1014698455400190013",
+        "name": ".meowman",
+        "discriminator": "0000",
+        "nickname": "MeowMan1984",
+        "color": "#CEF031",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1014698455400190013/6cbf6631eed13e5b247b3673e244c85f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1031376609816621169",
+      "type": "Default",
+      "timestamp": "2022-10-17T01:22:25.831+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://youtu.be/7MG77IIwFXI\n\nGreat guide on how to setup MEWC Core Wallet and begin mining in HiveOS. \n\nThank you Hobbyist Miner. \uD83D\uDE42",
+      "author": {
+        "id": "116447773188030464",
+        "name": "mana4093",
+        "discriminator": "0000",
+        "nickname": "Mana",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/116447773188030464/3c998ad8e532fe921ec8907b8f8ec3a9.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Why I'm Mining MEOWCOIN | Ultimate Guide to Mining MEOWCOIN",
+          "url": "https://www.youtube.com/watch?v=7MG77IIwFXI",
+          "timestamp": null,
+          "description": "In today's video we talk about WHY I'm Mining MEOWCOIN after the Ethereum Merge as a Spec Mining Avenue to Go.  While GPU Mining After the Ethereum Merge has not been profitable, it has allowed us CryptoMining Hobbyist to speculative mine these new, unknown projects and yield signifigantly more CryptoCurrency. In today's Video we go through an U...",
+          "color": "#FF0000",
+          "author": {
+            "name": "The Hobbyist Miner",
+            "url": "https://www.youtube.com/channel/UCX_MdaGkjJwY8vGvytybE7w"
+          },
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/x0vV16sI6X-SYGZ-gA8fQh1xWi7QgXk6qX3pVrvrYnA/https/i.ytimg.com/vi/7MG77IIwFXI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDE4C\uD83C\uDFFD",
+            "code": "raised_hands_tone3",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f64c-1f3fd.svg"
+          },
+          "count": 8
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDC4D",
+            "code": "thumbsup",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f44d.svg"
+          },
+          "count": 10
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83C\uDDF5\uD83C\uDDF0",
+            "code": "flag_pk",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f1f5-1f1f0.svg"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "1038902877458014259",
+      "type": "Default",
+      "timestamp": "2022-11-06T19:49:07.868+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://www.youtube.com/watch?v=ZzbFQDZ6su4\n\nFor @everyone to watch. With thanks to @Poor Investor",
+      "author": {
+        "id": "1014698455400190013",
+        "name": ".meowman",
+        "discriminator": "0000",
+        "nickname": "MeowMan1984",
+        "color": "#CEF031",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1014698455400190013/6cbf6631eed13e5b247b3673e244c85f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Meowcoin Co-Founder ambitious goals and learns about Chia",
+          "url": "https://www.youtube.com/watch?v=ZzbFQDZ6su4",
+          "timestamp": null,
+          "description": "Meowcoin Co-Founder Andrew gives us a deeper look into the future of the project.\nCheck them out here\nhttps://www.mewccrypto.com/\nThey just might be the next profitable coin to mine with your GPUs\n\n34 Bay HDD Open Frame Rig: https://ebay.us/wZN06C\n16 Port Sata Expansion PCIE: https://ebay.us/SzCpRA\nSATA Cables: https://ebay.us/PL4Vzm\nMini SAS Ca...",
+          "color": "#FF0000",
+          "author": {
+            "name": "Poor Investor",
+            "url": "https://www.youtube.com/channel/UCk8Ysl3ChjLeq7Va8WZdbLg"
+          },
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/OLGCJIzI8t8JeyP-TEFaRO6Ia6n3SGU0-FlVqZzCpUo/https/i.ytimg.com/vi/ZzbFQDZ6su4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDE80",
+            "code": "rocket",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f680.svg"
+          },
+          "count": 38
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83C\uDF7B",
+            "code": "beers",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f37b.svg"
+          },
+          "count": 20
+        },
+        {
+          "emoji": {
+            "id": "1036462358169649222",
+            "name": "Meowcoin",
+            "code": "Meowcoin",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/1036462358169649222.png"
+          },
+          "count": 18
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83C\uDDF2",
+            "code": "regional_indicator_m",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f1f2.svg"
+          },
+          "count": 13
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83C\uDDEA",
+            "code": "regional_indicator_e",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f1ea.svg"
+          },
+          "count": 12
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83C\uDDF4",
+            "code": "regional_indicator_o",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f1f4.svg"
+          },
+          "count": 12
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83C\uDDFC",
+            "code": "regional_indicator_w",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f1fc.svg"
+          },
+          "count": 12
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDC4D",
+            "code": "thumbsup",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f44d.svg"
+          },
+          "count": 10
+        },
+        {
+          "emoji": {
+            "id": "667863613423484971",
+            "name": "dancecat",
+            "code": "dancecat",
+            "isAnimated": true,
+            "imageUrl": "https://cdn.discordapp.com/emojis/667863613423484971.gif"
+          },
+          "count": 9
+        }
+      ],
+      "mentions": [
+        {
+          "id": "848350406178373642",
+          "name": "poorinvestor",
+          "discriminator": "0000",
+          "nickname": "Poor Investor",
+          "color": null,
+          "isBot": false,
+          "avatarUrl": "https://cdn.discordapp.com/avatars/848350406178373642/0583dacae5004d0a9d52b1c4b0b9d255.png?size=512"
+        }
+      ]
+    },
+    {
+      "id": "1097301091596640308",
+      "type": "Default",
+      "timestamp": "2023-04-16T23:22:47.105+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://youtu.be/yeUrg7Jpv7A",
+      "author": {
+        "id": "116447773188030464",
+        "name": "mana4093",
+        "discriminator": "0000",
+        "nickname": "Mana",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/116447773188030464/3c998ad8e532fe921ec8907b8f8ec3a9.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Inside Meowcoin: Co-Founder Interview on Crypto for Good",
+          "url": "https://www.youtube.com/watch?v=yeUrg7Jpv7A",
+          "timestamp": null,
+          "description": "Check out the crypto mining ecourse at https://sonofatech.com\n\nJoin Locals for exclusive content https://sonofatech.locals.com/\n\nErgo Address: 9fCyhudURbDSA2qi9k3sh1LgbHwyFwT6fck7wQW2YYWk9xR1miN\nETH Address: 0x8446b70aA05c811d7bF590e6EDE3d90C00391FcE\nETC Address: 0x8446b70aA05c811d7bF590e6EDE3d90C00391FcE\nZIL Address: zil135ajqdgf9mj6r50e8t28p98...",
+          "color": "#FF0000",
+          "author": {
+            "name": "Son of a Tech",
+            "url": "https://www.youtube.com/channel/UC0WNX0de8I1fgKUrjxiPaRA"
+          },
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/lDtG7Kfllv7YVEpWFO0BMkSaBaIw561q5n96T70Dgdk/https/i.ytimg.com/vi/yeUrg7Jpv7A/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDC4D",
+            "code": "thumbsup",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f44d.svg"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "1097301207569141890",
+      "type": "Default",
+      "timestamp": "2023-04-16T23:23:14.755+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://youtu.be/-Wa-2Cw9Bfo",
+      "author": {
+        "id": "116447773188030464",
+        "name": "mana4093",
+        "discriminator": "0000",
+        "nickname": "Mana",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/116447773188030464/3c998ad8e532fe921ec8907b8f8ec3a9.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Flux - Round Table with POW projects",
+          "url": "https://www.youtube.com/watch?v=-Wa-2Cw9Bfo",
+          "timestamp": null,
+          "description": "●▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬●\n⭐Links:\n\uD83D\uDCBBWebsite: https://runonflux.io\n\uD83D\uDCBBWebsite: https://zelcore.io\n●▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬●\n\uD83D\uDC68‍\uD83D\uDC69‍\uD83D\uDC67‍\uD83D\uDC66  Social:\n◆ Discord: https://discord.gg/F6VeCS4\n◆ Twitter: https://twitter.com/runonflux\n◆ Twitter: https://twitter.com/Zelcore_io\n◆ Medium: https://fluxofficial.medium.com/\n●▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬●\n\n\uD83D\uDC4DPlease like this video if y...",
+          "color": "#FF0000",
+          "author": {
+            "name": "FluxLabs",
+            "url": "https://www.youtube.com/channel/UCphbdfb1MXYgUPsdhQPcnGw"
+          },
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/m-lUwY5lEDbdlkQqtr-QkUYsy7Eko_yd83siHTidujI/https/i.ytimg.com/vi/-Wa-2Cw9Bfo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1097301303237025934",
+      "type": "Default",
+      "timestamp": "2023-04-16T23:23:37.564+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://youtu.be/IhHGC4RWE5w",
+      "author": {
+        "id": "116447773188030464",
+        "name": "mana4093",
+        "discriminator": "0000",
+        "nickname": "Mana",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/116447773188030464/3c998ad8e532fe921ec8907b8f8ec3a9.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "MeowCoin | Price discovery, Zelcore wallet, and more!",
+          "url": "https://www.youtube.com/watch?v=IhHGC4RWE5w",
+          "timestamp": null,
+          "description": "Welcome to the Hawks Nest everyone! \n\nThank you Andrew from MeowCoin joining me again on our second interview together! Comment feedback below and any suggestions!\n\nMeowCoin Discord: https://discord.gg/nS8pPN9DEM\n\nNEW MERCH!\n\uD83D\uDCA5 https://www.cryptee.co/collections/hawk-crypto-mining-clothing \uD83D\uDCA5\n\n➡️ Website: www.hawkcryptomining.com\n➡️ Twitter: https...",
+          "color": "#FF0000",
+          "author": {
+            "name": "Hawk Crypto Mining Co.",
+            "url": "https://www.youtube.com/channel/UC8LjRXA2fRbXfwUb76z2PeA"
+          },
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/MI2O5k0Jk0zDu3dxuOdOJTyioeU25gP1Fuk9cl4Li9I/https/i.ytimg.com/vi/IhHGC4RWE5w/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    }
+  ],
+  "messageCount": 12
+}

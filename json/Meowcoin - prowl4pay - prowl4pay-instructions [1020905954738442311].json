@@ -1,0 +1,89 @@
+{
+  "guild": {
+    "id": "1014698720987709542",
+    "name": "Meowcoin",
+    "iconUrl": "https://cdn.discordapp.com/icons/1014698720987709542/cbfdac18d3b13135885e6d63b34028ee.png?size=512"
+  },
+  "channel": {
+    "id": "1020905954738442311",
+    "type": "GuildTextChat",
+    "categoryId": "1020905808822796298",
+    "category": "prowl4pay",
+    "name": "prowl4pay-instructions",
+    "topic": "Prowling the streets of Twitter"
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "messages": [
+    {
+      "id": "1021019929388007499",
+      "type": "Default",
+      "timestamp": "2022-09-18T11:28:40.799+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**INTRODUCING -PROWL4PAY**\n\n‘prowl4pay’ - Cats when hunting their targets will ‘prowl’. So rather than call it raiding, we decided to call it prowling.\n\n**WHAT IS THIS ALL ABOUT?**\n\n‘Prowling’ is our way to get our community engaged with our project. **Meowmancer** and I cannot do all the work on our own; we are but two humble (albeit cool) cats. \n\nWe need YOU to join us in building the MeowCoin community. To help us to do this is we will post specific Twitter posts in here for users to rally around and post on. If you do this, you will be rewarded with 500 $MEWC for your efforts! These ‘raids’ will happen 2-3 times a week. It is an easy way to make $MEWC and benefits our community. \n\nThe objective of ‘prowl4pay’ is rewarding the community for bringing attention to the project and making the project grow in user base and value.\n\nDo you want 1c Meow? Or 10c Meow? Or… $1 Meow? Then you need to help us work toward these goals too \uD83D\uDE42 \n\nTo do that we must ‘raid’ in a way that catches the eye of the user on Twitter. \uD83D\uDC40 \n\nOne thing I’ll point out immediately is this - do not copy paste multiple times the same message. This will bring the Twitter algorithm to flag your account and shadow ban it. This will make your Tweets hidden or totally invisible to everyone else and make your efforts less effective. \n\n**GUIDELINES FOR AN EXCELLENT RAID POST**\n1) There is some creative text that is in line with the tweets\n2) Utilise cat gifs. This grabs peoples attention and gives our community a ‘chirpy’ and fun \n3) The Tweet itself is not some random words put there but is an answer to the influencers question. Make sure you’re relevant and engaging, not just dumping words. \n4) Tags are used to amplify the reach.\n\n**OTHER HELPFUL HINTS**\n1) Always try to engage with the influencers' posts.\n2) Try to show strength of our project in your Tweets\n3) Being fun and happy in your posts (not flamey, aggressive etc) makes our project look inviting to others. Do this and more people will join.",
+      "author": {
+        "id": "1014698455400190013",
+        "name": ".meowman",
+        "discriminator": "0000",
+        "nickname": "MeowMan1984",
+        "color": "#CEF031",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1014698455400190013/6cbf6631eed13e5b247b3673e244c85f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDC4D",
+            "code": "thumbsup",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f44d.svg"
+          },
+          "count": 18
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "❤️",
+            "code": "heart",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/2764.svg"
+          },
+          "count": 10
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "1021020063236632596",
+      "type": "Default",
+      "timestamp": "2022-09-18T11:29:12.711+00:00",
+      "timestampEdited": "2022-09-18T11:30:12.238+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**HOW TO REDEEM YOUR REWARD**\n\nEach prowl will have its own channel for a limited time. Once we post our 'prowl' campaign, please engage with the attached tweet, link to your tweet and we will utilise the TipBot to reimburse you for the $MEWC.\n\n**HOW TO BECOME A PROWLING PANTHER**\n\nThe big cat of the jungle, panther, is a beautiful feline. Engage in 10 raids and get the exclusive Prowling Panther role. You'll get exclusive access and perks. \uD83D\uDC08‍⬛",
+      "author": {
+        "id": "1014698455400190013",
+        "name": ".meowman",
+        "discriminator": "0000",
+        "nickname": "MeowMan1984",
+        "color": "#CEF031",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1014698455400190013/6cbf6631eed13e5b247b3673e244c85f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    }
+  ],
+  "messageCount": 2
+}

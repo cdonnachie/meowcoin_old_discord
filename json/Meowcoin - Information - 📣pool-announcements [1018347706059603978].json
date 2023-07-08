@@ -1,0 +1,1527 @@
+{
+  "guild": {
+    "id": "1014698720987709542",
+    "name": "Meowcoin",
+    "iconUrl": "https://cdn.discordapp.com/icons/1014698720987709542/cbfdac18d3b13135885e6d63b34028ee.png?size=512"
+  },
+  "channel": {
+    "id": "1018347706059603978",
+    "type": "GuildNews",
+    "categoryId": "1017280535023853568",
+    "category": "Information",
+    "name": "\uD83D\uDCE3pool-announcements",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "messages": [
+    {
+      "id": "1018348608380215376",
+      "type": "Default",
+      "timestamp": "2022-09-11T02:33:48.24+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "G'day @everyone! Throw some has to https://kawpow.digital/ - they've got behind us, so get behind them too \uD83D\uDE42",
+      "author": {
+        "id": "1014698455400190013",
+        "name": ".meowman",
+        "discriminator": "0000",
+        "nickname": "MeowMan1984",
+        "color": "#CEF031",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1014698455400190013/6cbf6631eed13e5b247b3673e244c85f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "MEOWCOIN POOL",
+          "url": "https://kawpow.digital/",
+          "timestamp": null,
+          "description": "MEOWCOIN Mining Pool",
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDCAF",
+            "code": "100",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f4af.svg"
+          },
+          "count": 5
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "1018399381931696132",
+      "type": "Default",
+      "timestamp": "2022-09-11T05:55:33.598+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@everyone https://kawpow.digital/ has now added global servers! Go check them out \uD83D\uDE42",
+      "author": {
+        "id": "1014698455400190013",
+        "name": ".meowman",
+        "discriminator": "0000",
+        "nickname": "MeowMan1984",
+        "color": "#CEF031",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1014698455400190013/6cbf6631eed13e5b247b3673e244c85f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "MEOWCOIN POOL",
+          "url": "https://kawpow.digital/",
+          "timestamp": null,
+          "description": "MEOWCOIN Mining Pool",
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDE0B",
+            "code": "yum",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f60b.svg"
+          },
+          "count": 4
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDC4D",
+            "code": "thumbsup",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f44d.svg"
+          },
+          "count": 2
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "1018416782521929738",
+      "type": "Default",
+      "timestamp": "2022-09-11T07:04:42.222+00:00",
+      "timestampEdited": "2022-09-11T07:08:48.264+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Hello @everyone ! zpool is now live \uD83D\uDE42\n\nhttps://zpool.ca\n\nPlease spread hash responsibly.",
+      "author": {
+        "id": "1014698455400190013",
+        "name": ".meowman",
+        "discriminator": "0000",
+        "nickname": "MeowMan1984",
+        "color": "#CEF031",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1014698455400190013/6cbf6631eed13e5b247b3673e244c85f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "zpool - the miners multipool",
+          "url": "https://zpool.ca/",
+          "timestamp": null,
+          "description": "zpool: the miners multipool paying bitcoin for alt coins",
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1018444578140991509",
+      "type": "Default",
+      "timestamp": "2022-09-11T08:55:09.214+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Hello @everyone - ZergPool is now online!\n\nhttps://zergpool.com/site/block?coin=MEWC\n\nPlease spread your hash responsibly.",
+      "author": {
+        "id": "1014698455400190013",
+        "name": ".meowman",
+        "discriminator": "0000",
+        "nickname": "MeowMan1984",
+        "color": "#CEF031",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1014698455400190013/6cbf6631eed13e5b247b3673e244c85f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Zergpool - zergpool.com - Block Site",
+          "url": "https://zergpool.com/site/block?coin=MEWC",
+          "timestamp": null,
+          "description": "Zergpool.com flexible mining for alternative crypto currencies.",
+          "color": "#C6DCC8",
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1018554907734855821",
+      "type": "Default",
+      "timestamp": "2022-09-11T16:13:33.839+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "We got another pool to select from! \n\nhttps://connect.aapix.pw/stats\n\n@everyone",
+      "author": {
+        "id": "1014701559101263885",
+        "name": ".meowmancer",
+        "discriminator": "0000",
+        "nickname": "Meowmancer",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1014701559101263885/06cf4b9255f0671601cda8a67d56ee7c.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "AAPIX KawPow Pool",
+          "url": "https://connect.aapix.pw/stats",
+          "timestamp": null,
+          "description": "A reliable, low fee, easy to use mining pool for Ravencoin! Get started mining today!",
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDE0D",
+            "code": "heart_eyes",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f60d.svg"
+          },
+          "count": 8
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDD25",
+            "code": "fire",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f525.svg"
+          },
+          "count": 5
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDE80",
+            "code": "rocket",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f680.svg"
+          },
+          "count": 5
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "❤️",
+            "code": "heart",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/2764.svg"
+          },
+          "count": 4
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "1019438467849130054",
+      "type": "Default",
+      "timestamp": "2022-09-14T02:44:30.986+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@everyone New MeowCoin pool? Ironically named after dogs? You betcha! \n\nIP to US, EU, LATAM and Asia. Thanks @MarcioMartini \n\nPlease distribute your hash responsibly. \n\nhttps://dogpool.co/",
+      "author": {
+        "id": "1014698455400190013",
+        "name": ".meowman",
+        "discriminator": "0000",
+        "nickname": "MeowMan1984",
+        "color": "#CEF031",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1014698455400190013/6cbf6631eed13e5b247b3673e244c85f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Dogpool - 1% fee",
+          "url": "https://dogpool.co/",
+          "timestamp": null,
+          "description": "A reliable, 1% fee, easy to use mining pool for cryptocurrency! No matter your experience with mining cryptocurrency, we make it easy! Get started mining today!",
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDD25",
+            "code": "fire",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f525.svg"
+          },
+          "count": 7
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDC4D",
+            "code": "thumbsup",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f44d.svg"
+          },
+          "count": 3
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83C\uDDE7\uD83C\uDDF7",
+            "code": "flag_br",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f1e7-1f1f7.svg"
+          },
+          "count": 3
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDC36",
+            "code": "dog",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f436.svg"
+          },
+          "count": 2
+        },
+        {
+          "emoji": {
+            "id": "1017302971060596787",
+            "name": "cooldoge",
+            "code": "cooldoge",
+            "isAnimated": true,
+            "imageUrl": "https://cdn.discordapp.com/emojis/1017302971060596787.gif"
+          },
+          "count": 2
+        }
+      ],
+      "mentions": [
+        {
+          "id": "837868866062516245",
+          "name": "marciomartini",
+          "discriminator": "0000",
+          "nickname": "MarcioMartini",
+          "color": null,
+          "isBot": false,
+          "avatarUrl": "https://cdn.discordapp.com/avatars/837868866062516245/4e714b68a8e5b3dd5e9697f5ae748055.png?size=512"
+        }
+      ]
+    },
+    {
+      "id": "1020127645083648150",
+      "type": "Default",
+      "timestamp": "2022-09-16T00:23:03.643+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@everyone - pool.meowcoin.lol is back up and running.\n\nPlease consider distributing hashrate. It is what protects our coin and protects the network.",
+      "author": {
+        "id": "1014698455400190013",
+        "name": ".meowman",
+        "discriminator": "0000",
+        "nickname": "MeowMan1984",
+        "color": "#CEF031",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1014698455400190013/6cbf6631eed13e5b247b3673e244c85f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDC4D",
+            "code": "thumbsup",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f44d.svg"
+          },
+          "count": 17
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83C\uDDF3\uD83C\uDDFF",
+            "code": "flag_nz",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f1f3-1f1ff.svg"
+          },
+          "count": 2
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "1021841583861137418",
+      "type": "Default",
+      "timestamp": "2022-09-20T17:53:38.491+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@everyone Got a brand new pool to share: https://crimsonfusion.org/meow\n\nPlease consider spreading your hash to smaller pools to protect the network.",
+      "author": {
+        "id": "1014701559101263885",
+        "name": ".meowmancer",
+        "discriminator": "0000",
+        "nickname": "Meowmancer",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1014701559101263885/06cf4b9255f0671601cda8a67d56ee7c.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDC4D",
+            "code": "thumbsup",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f44d.svg"
+          },
+          "count": 15
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83C\uDDF3\uD83C\uDDFF",
+            "code": "flag_nz",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f1f3-1f1ff.svg"
+          },
+          "count": 5
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83C\uDDF7\uD83C\uDDFA",
+            "code": "flag_ru",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f1f7-1f1fa.svg"
+          },
+          "count": 2
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "1022978527974400030",
+      "type": "Default",
+      "timestamp": "2022-09-23T21:11:27.091+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@everyone - Cryptic Wizardry pool is now back up and running. Reach out to @α | crypticwizardry.com or @Tarot | crypticwizardry.com for any Q’s.\n\nAnd remember - spread the hash \uD83D\uDCAA",
+      "author": {
+        "id": "1014698455400190013",
+        "name": ".meowman",
+        "discriminator": "0000",
+        "nickname": "MeowMan1984",
+        "color": "#CEF031",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1014698455400190013/6cbf6631eed13e5b247b3673e244c85f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDCAF",
+            "code": "100",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f4af.svg"
+          },
+          "count": 19
+        },
+        {
+          "emoji": {
+            "id": "899202058874413057",
+            "name": "alarm",
+            "code": "alarm",
+            "isAnimated": true,
+            "imageUrl": "https://cdn.discordapp.com/emojis/899202058874413057.gif"
+          },
+          "count": 11
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDC4D",
+            "code": "thumbsup",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f44d.svg"
+          },
+          "count": 5
+        },
+        {
+          "emoji": {
+            "id": "783340711256260638",
+            "name": "crazyeyes",
+            "code": "crazyeyes",
+            "isAnimated": true,
+            "imageUrl": "https://cdn.discordapp.com/emojis/783340711256260638.gif"
+          },
+          "count": 3
+        },
+        {
+          "emoji": {
+            "id": "589897202890047522",
+            "name": "blobyes",
+            "code": "blobyes",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/589897202890047522.png"
+          },
+          "count": 3
+        }
+      ],
+      "mentions": [
+        {
+          "id": "698290465858125913",
+          "name": "psychedelicSpectrum01",
+          "discriminator": "8606",
+          "nickname": "α | crypticwizardry.com",
+          "color": null,
+          "isBot": false,
+          "avatarUrl": "https://cdn.discordapp.com/avatars/698290465858125913/11488ad9a8402ee877eedb6ae3d1d920.png?size=512"
+        },
+        {
+          "id": "312717190128467969",
+          "name": "t4r0t",
+          "discriminator": "0000",
+          "nickname": "Tarot | crypticwizardry.com",
+          "color": null,
+          "isBot": false,
+          "avatarUrl": "https://cdn.discordapp.com/avatars/312717190128467969/3e067a2412c3729f748d6243be08fa3d.png?size=512"
+        }
+      ]
+    },
+    {
+      "id": "1024777305157017673",
+      "type": "Default",
+      "timestamp": "2022-09-28T20:19:08.991+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@everyone Added SOLO Mining Server For EU  located in Frankfurt, Germany Low Diff  91.227.41.103:8883     and High Diff  91.227.41.103:8884        https://kawpow.digital/solo-meow.php\n\nNot my pool, posting on behalf of @\uD83D\uDC80BartMan__X\uD83D\uDC80 \n\nThanks for the pool mate, legend!",
+      "author": {
+        "id": "116447773188030464",
+        "name": "mana4093",
+        "discriminator": "0000",
+        "nickname": "Mana",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/116447773188030464/3c998ad8e532fe921ec8907b8f8ec3a9.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "MEOWCOIN SOLO",
+          "url": "https://kawpow.digital/solo-meow.php",
+          "timestamp": null,
+          "description": "MEOWCOIN SOLO Pool",
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDCAF",
+            "code": "100",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f4af.svg"
+          },
+          "count": 11
+        }
+      ],
+      "mentions": [
+        {
+          "id": "453625594719109136",
+          "name": "bartman__x",
+          "discriminator": "0000",
+          "nickname": "\uD83D\uDC80BartMan__X\uD83D\uDC80",
+          "color": null,
+          "isBot": false,
+          "avatarUrl": "https://cdn.discordapp.com/avatars/453625594719109136/f2d06879c3934feb266c372539bda9fd.png?size=512"
+        }
+      ]
+    },
+    {
+      "id": "1025352632430239745",
+      "type": "Default",
+      "timestamp": "2022-09-30T10:25:17.702+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@everyone 3squadmining has added close to all KawPow mineable coins! currently running NEOX/MEOW/SATO/HIVE/RVN/KAWKAW!\nSpread the hash yall\n\nhttps://3squadmining.org",
+      "author": {
+        "id": "446417517959708690",
+        "name": "3squadmining",
+        "discriminator": "0000",
+        "nickname": "3squadmining | 3squadmining.org",
+        "color": "#74FF6C",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/446417517959708690/b3c79dfb03dfe94f77daac4c4b1ef850.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDC4D\uD83C\uDFFC",
+            "code": "thumbsup_tone2",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f44d-1f3fc.svg"
+          },
+          "count": 11
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDE80",
+            "code": "rocket",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f680.svg"
+          },
+          "count": 8
+        },
+        {
+          "emoji": {
+            "id": "982765662604771368",
+            "name": "emoji_1",
+            "code": "emoji_1",
+            "isAnimated": true,
+            "imageUrl": "https://cdn.discordapp.com/emojis/982765662604771368.gif"
+          },
+          "count": 9
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "1026720482491383878",
+      "type": "Default",
+      "timestamp": "2022-10-04T05:00:38.57+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Hi @everyone - we have a new mining pool to check out!\n\nhttps://blockdiggers.net/stats/meowcoin\n\nGet on over and have a look. To all our Australian miners, you might like the name \uD83D\uDE09",
+      "author": {
+        "id": "1014698455400190013",
+        "name": ".meowman",
+        "discriminator": "0000",
+        "nickname": "MeowMan1984",
+        "color": "#CEF031",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1014698455400190013/6cbf6631eed13e5b247b3673e244c85f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "1024452191408365599",
+            "name": "cryingcat",
+            "code": "cryingcat",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/1024452191408365599.png"
+          },
+          "count": 10
+        },
+        {
+          "emoji": {
+            "id": "1024512428161105970",
+            "name": "MEOWCAT",
+            "code": "MEOWCAT",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/1024512428161105970.png"
+          },
+          "count": 8
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDC4D",
+            "code": "thumbsup",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f44d.svg"
+          },
+          "count": 6
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83E\uDD98",
+            "code": "kangaroo",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f998.svg"
+          },
+          "count": 4
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "1026782769038245949",
+      "type": "Default",
+      "timestamp": "2022-10-04T09:08:08.84+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "1000 MEOW giveaway for the next miner hitting a MEOW Block \uD83D\uDE42 https://miningpool.muellerwebservice.de/",
+      "author": {
+        "id": "511862901582069761",
+        "name": "cremigescurry",
+        "discriminator": "0000",
+        "nickname": "CremigesCurry (Max)",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/511862901582069761/bd0f65810a095ccf39e20c30d460e4dc.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "❤️",
+            "code": "heart",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/2764.svg"
+          },
+          "count": 18
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDD25",
+            "code": "fire",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f525.svg"
+          },
+          "count": 5
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "1028951680609439744",
+      "type": "Default",
+      "timestamp": "2022-10-10T08:46:37.655+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Hi @everyone - https://poolkh.com/ is a new pool which has servers in Singapore. Please check it out if you're mining in that geographic location \uD83D\uDE42",
+      "author": {
+        "id": "1014698455400190013",
+        "name": ".meowman",
+        "discriminator": "0000",
+        "nickname": "MeowMan1984",
+        "color": "#CEF031",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1014698455400190013/6cbf6631eed13e5b247b3673e244c85f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Cambodia Mining Pool - 0.5 % Fees Promo - Run By Cambodian Miner",
+          "url": "https://poolkh.com/",
+          "timestamp": null,
+          "description": "A reliable, low fee, easy to use mining pool for Kawpow Algo! Get started mining today!",
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "❤️",
+            "code": "heart",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/2764.svg"
+          },
+          "count": 11
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "1030252937236193292",
+      "type": "Default",
+      "timestamp": "2022-10-13T22:57:21.411+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@deleted-role - please check out https://meowmining.lol/ pool. @\uD83D\uDC80BartMan__X\uD83D\uDC80 has done a great job with it \uD83D\uDE42 As always, please spread the hash!",
+      "author": {
+        "id": "1014698455400190013",
+        "name": ".meowman",
+        "discriminator": "0000",
+        "nickname": "MeowMan1984",
+        "color": "#CEF031",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1014698455400190013/6cbf6631eed13e5b247b3673e244c85f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "MEOWMINING POOL",
+          "url": "https://meowmining.lol/",
+          "timestamp": null,
+          "description": "MEOWCOIN MINING POOL",
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDE3A",
+            "code": "smiley_cat",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f63a.svg"
+          },
+          "count": 11
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDC4D",
+            "code": "thumbsup",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f44d.svg"
+          },
+          "count": 8
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83C\uDF7B",
+            "code": "beers",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f37b.svg"
+          },
+          "count": 5
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83C\uDF89",
+            "code": "tada",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f389.svg"
+          },
+          "count": 4
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDE80",
+            "code": "rocket",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f680.svg"
+          },
+          "count": 4
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDE12",
+            "code": "unamused",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f612.svg"
+          },
+          "count": 2
+        }
+      ],
+      "mentions": [
+        {
+          "id": "453625594719109136",
+          "name": "bartman__x",
+          "discriminator": "0000",
+          "nickname": "\uD83D\uDC80BartMan__X\uD83D\uDC80",
+          "color": null,
+          "isBot": false,
+          "avatarUrl": "https://cdn.discordapp.com/avatars/453625594719109136/f2d06879c3934feb266c372539bda9fd.png?size=512"
+        }
+      ]
+    },
+    {
+      "id": "1030613628086407269",
+      "type": "Default",
+      "timestamp": "2022-10-14T22:50:36.811+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@everyone - https://crimsonfusion.org/meow now has a solo pool for you to use \uD83D\uDE42",
+      "author": {
+        "id": "1014698455400190013",
+        "name": ".meowman",
+        "discriminator": "0000",
+        "nickname": "MeowMan1984",
+        "color": "#CEF031",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1014698455400190013/6cbf6631eed13e5b247b3673e244c85f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDE4C\uD83C\uDFFD",
+            "code": "raised_hands_tone3",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f64c-1f3fd.svg"
+          },
+          "count": 16
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDC4D",
+            "code": "thumbsup",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f44d.svg"
+          },
+          "count": 12
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83C\uDDF9\uD83C\uDDF7",
+            "code": "flag_tr",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f1f9-1f1f7.svg"
+          },
+          "count": 5
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83C\uDF7B",
+            "code": "beers",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f37b.svg"
+          },
+          "count": 4
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "❤️",
+            "code": "heart",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/2764.svg"
+          },
+          "count": 3
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "1036379190540390452",
+      "type": "Default",
+      "timestamp": "2022-10-30T20:40:54.019+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Good morning @everyone! We have superb news for the week ahead:\n\nhttps://mewc.minerpool.pro/\n\nMinerpool has listed our coin and will be supporting Meowcoin \uD83E\uDD73 \n\nPlease note some additional info: \n\n- new pool from MinerPool.pro - with shared and solo mining options, on 4 different locations around the globe (EU, US-EAST, US-WEST, ASIA)\n- LoyaltyProgram bonus campaign - that starts on Thursday (have >= 95% uptime weekly and get extra rewards for every MH you participate with) details in our pool / discord announcements\n\nWe're very excited about this and want to thank @Shmocs | minerpool.org for bringing us on.",
+      "author": {
+        "id": "1014698455400190013",
+        "name": ".meowman",
+        "discriminator": "0000",
+        "nickname": "MeowMan1984",
+        "color": "#CEF031",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1014698455400190013/6cbf6631eed13e5b247b3673e244c85f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "MinerPool",
+          "url": "https://mewc.minerpool.pro/",
+          "timestamp": null,
+          "description": "",
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDC4D",
+            "code": "thumbsup",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f44d.svg"
+          },
+          "count": 46
+        },
+        {
+          "emoji": {
+            "id": "1024512428161105970",
+            "name": "MEOWCAT",
+            "code": "MEOWCAT",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/1024512428161105970.png"
+          },
+          "count": 23
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDE3B",
+            "code": "heart_eyes_cat",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f63b.svg"
+          },
+          "count": 13
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83C\uDF89",
+            "code": "tada",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f389.svg"
+          },
+          "count": 11
+        },
+        {
+          "emoji": {
+            "id": "667863613423484971",
+            "name": "dancecat",
+            "code": "dancecat",
+            "isAnimated": true,
+            "imageUrl": "https://cdn.discordapp.com/emojis/667863613423484971.gif"
+          },
+          "count": 11
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDD25",
+            "code": "fire",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f525.svg"
+          },
+          "count": 9
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83E\uDE99",
+            "code": "coin",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1fa99.svg"
+          },
+          "count": 7
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83C\uDDF2",
+            "code": "regional_indicator_m",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f1f2.svg"
+          },
+          "count": 7
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83C\uDDEA",
+            "code": "regional_indicator_e",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f1ea.svg"
+          },
+          "count": 7
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83C\uDDF4",
+            "code": "regional_indicator_o",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f1f4.svg"
+          },
+          "count": 7
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83C\uDDFC",
+            "code": "regional_indicator_w",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f1fc.svg"
+          },
+          "count": 7
+        }
+      ],
+      "mentions": [
+        {
+          "id": "393363732992098305",
+          "name": "shmocs",
+          "discriminator": "0000",
+          "nickname": "Shmocs | minerpool.org",
+          "color": "#74FF6C",
+          "isBot": false,
+          "avatarUrl": "https://cdn.discordapp.com/avatars/393363732992098305/72a092c06cb9aa0c75a9e31b4998e207.png?size=512"
+        }
+      ]
+    },
+    {
+      "id": "1037191218720948336",
+      "type": "Default",
+      "timestamp": "2022-11-02T02:27:36.624+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@everyone Just a reminder that the Loyalty Program (by Minerpool.org) for MEWC regular pool will be active starting Thursday!\nHave a weekly uptime >= 95% and get additional 10 Mewc per each 10 MH weekly!",
+      "author": {
+        "id": "116447773188030464",
+        "name": "mana4093",
+        "discriminator": "0000",
+        "nickname": "Mana",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/116447773188030464/3c998ad8e532fe921ec8907b8f8ec3a9.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "667863613423484971",
+            "name": "dancecat",
+            "code": "dancecat",
+            "isAnimated": true,
+            "imageUrl": "https://cdn.discordapp.com/emojis/667863613423484971.gif"
+          },
+          "count": 25
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83C\uDDF2",
+            "code": "regional_indicator_m",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f1f2.svg"
+          },
+          "count": 17
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83C\uDDEA",
+            "code": "regional_indicator_e",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f1ea.svg"
+          },
+          "count": 17
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83C\uDDF4",
+            "code": "regional_indicator_o",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f1f4.svg"
+          },
+          "count": 17
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83C\uDDFC",
+            "code": "regional_indicator_w",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f1fc.svg"
+          },
+          "count": 17
+        },
+        {
+          "emoji": {
+            "id": "845087095437262858",
+            "name": "catJAM",
+            "code": "catJAM",
+            "isAnimated": true,
+            "imageUrl": "https://cdn.discordapp.com/emojis/845087095437262858.gif"
+          },
+          "count": 10
+        },
+        {
+          "emoji": {
+            "id": "579008074384146442",
+            "name": "fuego",
+            "code": "fuego",
+            "isAnimated": true,
+            "imageUrl": "https://cdn.discordapp.com/emojis/579008074384146442.gif"
+          },
+          "count": 12
+        },
+        {
+          "emoji": {
+            "id": "788713120108511292",
+            "name": "CatScared",
+            "code": "CatScared",
+            "isAnimated": true,
+            "imageUrl": "https://cdn.discordapp.com/emojis/788713120108511292.gif"
+          },
+          "count": 3
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "1051360038276563014",
+      "type": "Default",
+      "timestamp": "2022-12-11T04:49:26.45+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Hi @everyone \n\nhttps://crimsonfusion.org/meow now has stratums in US, Europe, Asia, and Australia for both shared and solo.",
+      "author": {
+        "id": "1014698455400190013",
+        "name": ".meowman",
+        "discriminator": "0000",
+        "nickname": "MeowMan1984",
+        "color": "#CEF031",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1014698455400190013/6cbf6631eed13e5b247b3673e244c85f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "❤️",
+            "code": "heart",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/2764.svg"
+          },
+          "count": 16
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "1053821277787394078",
+      "type": "Default",
+      "timestamp": "2022-12-17T23:49:31.677+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@everyone - go check out #⛏mining as @\uD83D\uDC80BartMan__X\uD83D\uDC80 is having a block party \uD83E\uDD73  He's doing some giveaways so see if its something you'd like to jump on and have some fun with.",
+      "author": {
+        "id": "1014698455400190013",
+        "name": ".meowman",
+        "discriminator": "0000",
+        "nickname": "MeowMan1984",
+        "color": "#CEF031",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1014698455400190013/6cbf6631eed13e5b247b3673e244c85f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDCAA",
+            "code": "muscle",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f4aa.svg"
+          },
+          "count": 5
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "❤️",
+            "code": "heart",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/2764.svg"
+          },
+          "count": 5
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83C\uDF89",
+            "code": "tada",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f389.svg"
+          },
+          "count": 4
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83E\uDD73",
+            "code": "partying_face",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f973.svg"
+          },
+          "count": 2
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDC4F",
+            "code": "clap",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f44f.svg"
+          },
+          "count": 4
+        }
+      ],
+      "mentions": [
+        {
+          "id": "453625594719109136",
+          "name": "bartman__x",
+          "discriminator": "0000",
+          "nickname": "\uD83D\uDC80BartMan__X\uD83D\uDC80",
+          "color": null,
+          "isBot": false,
+          "avatarUrl": "https://cdn.discordapp.com/avatars/453625594719109136/f2d06879c3934feb266c372539bda9fd.png?size=512"
+        }
+      ]
+    },
+    {
+      "id": "1053888196506828871",
+      "type": "Default",
+      "timestamp": "2022-12-18T04:15:26.343+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://mewc.walemo.cc/ is up and running - thank to @Jasonscw !",
+      "author": {
+        "id": "1014698455400190013",
+        "name": ".meowman",
+        "discriminator": "0000",
+        "nickname": "MeowMan1984",
+        "color": "#CEF031",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1014698455400190013/6cbf6631eed13e5b247b3673e244c85f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "583452250773651489",
+          "name": "jasonscw",
+          "discriminator": "0000",
+          "nickname": "Jasonscw",
+          "color": null,
+          "isBot": false,
+          "avatarUrl": "https://cdn.discordapp.com/avatars/583452250773651489/3b55b4d53bb8f467b515d9fd073197c9.png?size=512"
+        }
+      ]
+    },
+    {
+      "id": "1059675727466872962",
+      "type": "Default",
+      "timestamp": "2023-01-03T03:33:01.251+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "UPDATE @everyone  - we have new members of the family \uD83D\uDE42\n\nhttps://coinminerz.com/pool/Meowcoin is now live with Meowcoin! Get over and check it out.",
+      "author": {
+        "id": "1014698455400190013",
+        "name": ".meowman",
+        "discriminator": "0000",
+        "nickname": "MeowMan1984",
+        "color": "#CEF031",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1014698455400190013/6cbf6631eed13e5b247b3673e244c85f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "579008074384146442",
+            "name": "fuego",
+            "code": "fuego",
+            "isAnimated": true,
+            "imageUrl": "https://cdn.discordapp.com/emojis/579008074384146442.gif"
+          },
+          "count": 36
+        },
+        {
+          "emoji": {
+            "id": "926504220004335637",
+            "name": "partyblob2",
+            "code": "partyblob2",
+            "isAnimated": true,
+            "imageUrl": "https://cdn.discordapp.com/emojis/926504220004335637.gif"
+          },
+          "count": 14
+        },
+        {
+          "emoji": {
+            "id": "901394650298998824",
+            "name": "confetticannon",
+            "code": "confetticannon",
+            "isAnimated": true,
+            "imageUrl": "https://cdn.discordapp.com/emojis/901394650298998824.gif"
+          },
+          "count": 12
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDC4F",
+            "code": "clap",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f44f.svg"
+          },
+          "count": 9
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83C\uDDF2",
+            "code": "regional_indicator_m",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f1f2.svg"
+          },
+          "count": 11
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83C\uDDEA",
+            "code": "regional_indicator_e",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f1ea.svg"
+          },
+          "count": 9
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83C\uDDF4",
+            "code": "regional_indicator_o",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f1f4.svg"
+          },
+          "count": 9
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83C\uDDFC",
+            "code": "regional_indicator_w",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f1fc.svg"
+          },
+          "count": 9
+        },
+        {
+          "emoji": {
+            "id": "923715505997631498",
+            "name": "Siren",
+            "code": "Siren",
+            "isAnimated": true,
+            "imageUrl": "https://cdn.discordapp.com/emojis/923715505997631498.gif"
+          },
+          "count": 7
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDC4D",
+            "code": "thumbsup",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f44d.svg"
+          },
+          "count": 11
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83E\uDD73",
+            "code": "partying_face",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f973.svg"
+          },
+          "count": 5
+        },
+        {
+          "emoji": {
+            "id": "788713123640639509",
+            "name": "CatRave",
+            "code": "CatRave",
+            "isAnimated": true,
+            "imageUrl": "https://cdn.discordapp.com/emojis/788713123640639509.gif"
+          },
+          "count": 2
+        }
+      ],
+      "mentions": []
+    }
+  ],
+  "messageCount": 22
+}

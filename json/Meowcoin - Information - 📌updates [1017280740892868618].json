@@ -1,0 +1,2072 @@
+{
+  "guild": {
+    "id": "1014698720987709542",
+    "name": "Meowcoin",
+    "iconUrl": "https://cdn.discordapp.com/icons/1014698720987709542/cbfdac18d3b13135885e6d63b34028ee.png?size=512"
+  },
+  "channel": {
+    "id": "1017280740892868618",
+    "type": "GuildNews",
+    "categoryId": "1017280535023853568",
+    "category": "Information",
+    "name": "\uD83D\uDCCCupdates",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "messages": [
+    {
+      "id": "1022680690329931867",
+      "type": "Default",
+      "timestamp": "2022-09-23T01:27:57.063+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**UPDATE**\n\nHey @everyone \n\nWe're ready to make our next donation, and it is quite a bit larger than the ones we've already made.\n\nHowever, and as part of the feedback we've received, we wanted to engage with you all to vote for the recipient of the donation.\n\nConsequently, we wanted to put up three options to work with:\n\nA. https://www.sterlingshelter.org/ \uD83C\uDDE6 \n\nB. https://www.hopeforpaws.org/ \uD83C\uDDE7 \n\nC. https://bestfriends.org/ \uD83C\uDDE8 \n\nPlease vote below using the \uD83C\uDDE6  \uD83C\uDDE7  \uD83C\uDDE8  emoji. This voting will start now and go for 48hrs to give everyone a chance to contribute.",
+      "author": {
+        "id": "1014698455400190013",
+        "name": ".meowman",
+        "discriminator": "0000",
+        "nickname": "MeowMan1984",
+        "color": "#CEF031",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1014698455400190013/6cbf6631eed13e5b247b3673e244c85f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Humane Society - Animal Shelter, Inc. of Sterling",
+          "url": "https://www.sterlingshelter.org/",
+          "timestamp": null,
+          "description": "We are Proud Recipients of MULTIPLE awards Support our organization YEAR ROUND – you’ll always be helping our Pets and Programs – just by shopping @",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/FWQCXk0x9CMpQ4NbS0UbavcE1s3eXXTDQHPgJqCS4-g/https/sterlingshelter-animalshelterinc.netdna-ssl.com/wp-content/uploads/large-logo.jpg",
+            "width": 1125,
+            "height": 1125
+          },
+          "images": [],
+          "fields": []
+        },
+        {
+          "title": "Hope For Paws - Animal Rescue",
+          "url": "https://www.hopeforpaws.org/",
+          "timestamp": null,
+          "description": "Hope for Paws is a 501c3 animal rescue organization.  We rescue abandoned and neglected animals.",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/T751dqJyGFhvtHnz2Dr-dVYrQxUysa2mo8__b5MvRwI/https/www.hopeforpaws.org/img/hope-for-paws-circle-logo.png",
+            "width": 400,
+            "height": 400
+          },
+          "images": [],
+          "fields": []
+        },
+        {
+          "title": "Homepage",
+          "url": "https://bestfriends.org/",
+          "timestamp": null,
+          "description": "With Best Friends, you're working to save the lives of cats and dogs all-across America, giving pets second chances and happy homes.",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/0p7831LaTDP4ZRDgrA3W7JQDgnBnrJ0hj5IIVybwNL4/https/bestfriends.org/sites/default/files/2021-10/Generic_01%255B1%255D.jpg",
+            "width": 1920,
+            "height": 710
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83C\uDDE6",
+            "code": "regional_indicator_a",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f1e6.svg"
+          },
+          "count": 18
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDD25",
+            "code": "fire",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f525.svg"
+          },
+          "count": 14
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83C\uDDE7",
+            "code": "regional_indicator_b",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f1e7.svg"
+          },
+          "count": 75
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83E\uDD73",
+            "code": "partying_face",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f973.svg"
+          },
+          "count": 7
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "❤️",
+            "code": "heart",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/2764.svg"
+          },
+          "count": 12
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83C\uDDE8",
+            "code": "regional_indicator_c",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f1e8.svg"
+          },
+          "count": 19
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDE3B",
+            "code": "heart_eyes_cat",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f63b.svg"
+          },
+          "count": 11
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDC36",
+            "code": "dog",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f436.svg"
+          },
+          "count": 7
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDE4C",
+            "code": "raised_hands",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f64c.svg"
+          },
+          "count": 3
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83C\uDDEA\uD83C\uDDF8",
+            "code": "flag_es",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f1ea-1f1f8.svg"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "1023410579324547152",
+      "type": "Default",
+      "timestamp": "2022-09-25T01:48:16.16+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "G'day @everyone - with 48hrs now up, Hope for Paws is our winning vote \uD83D\uDE42 Donation will take place soon and we'll advise when it is completed.",
+      "author": {
+        "id": "1014698455400190013",
+        "name": ".meowman",
+        "discriminator": "0000",
+        "nickname": "MeowMan1984",
+        "color": "#CEF031",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1014698455400190013/6cbf6631eed13e5b247b3673e244c85f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDC4D",
+            "code": "thumbsup",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f44d.svg"
+          },
+          "count": 44
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDD25",
+            "code": "fire",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f525.svg"
+          },
+          "count": 21
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "❤️",
+            "code": "heart",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/2764.svg"
+          },
+          "count": 20
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDE3B",
+            "code": "heart_eyes_cat",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f63b.svg"
+          },
+          "count": 13
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83C\uDF89",
+            "code": "tada",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f389.svg"
+          },
+          "count": 10
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "⛏️",
+            "code": "pick",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/26cf.svg"
+          },
+          "count": 11
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "1043047780538650645",
+      "type": "Default",
+      "timestamp": "2022-11-18T06:19:29.771+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Filed an updated supply count with CMC - will be working with CMC to establish autonomous supply updates in the future so our CMC rank is updated more often. \n\nWill let everyone know when this request has been processed.",
+      "author": {
+        "id": "116447773188030464",
+        "name": "mana4093",
+        "discriminator": "0000",
+        "nickname": "Mana",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/116447773188030464/3c998ad8e532fe921ec8907b8f8ec3a9.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDC4D",
+            "code": "thumbsup",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f44d.svg"
+          },
+          "count": 9
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83C\uDF7B",
+            "code": "beers",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f37b.svg"
+          },
+          "count": 3
+        },
+        {
+          "emoji": {
+            "id": "1036462358169649222",
+            "name": "Meowcoin",
+            "code": "Meowcoin",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/1036462358169649222.png"
+          },
+          "count": 2
+        },
+        {
+          "emoji": {
+            "id": "1024512428161105970",
+            "name": "MEOWCAT",
+            "code": "MEOWCAT",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/1024512428161105970.png"
+          },
+          "count": 2
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "1043682081139609630",
+      "type": "Default",
+      "timestamp": "2022-11-20T00:19:58.819+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Update: \n\nCirculating supply updated on CMC. \n\nAutonomous supply updates will be available when there is more liquidity for CMC to verify.",
+      "author": {
+        "id": "116447773188030464",
+        "name": "mana4093",
+        "discriminator": "0000",
+        "nickname": "Mana",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/116447773188030464/3c998ad8e532fe921ec8907b8f8ec3a9.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "✅",
+            "code": "white_check_mark",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/2705.svg"
+          },
+          "count": 2
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "1043690223302873139",
+      "type": "Default",
+      "timestamp": "2022-11-20T00:52:20.062+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Coingecko Supply Update filed.",
+      "author": {
+        "id": "116447773188030464",
+        "name": "mana4093",
+        "discriminator": "0000",
+        "nickname": "Mana",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/116447773188030464/3c998ad8e532fe921ec8907b8f8ec3a9.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "❤️",
+            "code": "heart",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/2764.svg"
+          },
+          "count": 12
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDC4F",
+            "code": "clap",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f44f.svg"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "1045907386579296276",
+      "type": "Default",
+      "timestamp": "2022-11-26T03:42:32.98+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Updated peer issue solution. check pins in #❓help-and-support if you have issues connecting to peers.\n\nWill update that specific post of known Nodes that accept incoming connections as they pop up. \n\nIf you are a absolute legend and have your core wallet node operation 24/7, please send me your node info in DMs so I can add it to the list for others to connect to.",
+      "author": {
+        "id": "116447773188030464",
+        "name": "mana4093",
+        "discriminator": "0000",
+        "nickname": "Mana",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/116447773188030464/3c998ad8e532fe921ec8907b8f8ec3a9.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1046218632092467241",
+      "type": "Default",
+      "timestamp": "2022-11-27T00:19:19.693+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**UPDATE - EMPAWRIUM / ROADMAP**\n\nHello @everyone\n\nWe just wanted to give you an update on Empawrium. We've been busy testing the final product and after discussions with the team, we concluded that we need a little bit more time to work on this so we can deliver the very best experience for artists and collectors alike.\n\nConsequently, we're going to push the marketplace launch back a few weeks just to work on the tech and ensure its the best we can make it. We're also working to ensure we have a fully asset aware wallet option (currently Purse and Lite are going to be available for people to use) and we'd like to get an Asset Explorer completed too. \n\nWe apologise for the delay on this, but we value and respect you as a community too much to simply satisfy ourselves with 'close enough'. \n\nIn terms of the roadmap, we've been discussing behind the scenes our tech horizon. We're going to be reworking this in the next few days to be more reflective of what we can achieve in the timelines we've got so that we don't misstep. \n\nIf you have any Q's on this, please chat to us in #\uD83D\uDC08cat-chat - we'd be happy to provide any feedback to your Q's.",
+      "author": {
+        "id": "1014698455400190013",
+        "name": ".meowman",
+        "discriminator": "0000",
+        "nickname": "MeowMan1984",
+        "color": "#CEF031",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1014698455400190013/6cbf6631eed13e5b247b3673e244c85f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDE2D",
+            "code": "sob",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f62d.svg"
+          },
+          "count": 11
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83E\uDD7A",
+            "code": "pleading_face",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f97a.svg"
+          },
+          "count": 4
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDC4D",
+            "code": "thumbsup",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f44d.svg"
+          },
+          "count": 13
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDE3B",
+            "code": "heart_eyes_cat",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f63b.svg"
+          },
+          "count": 7
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "❤️",
+            "code": "heart",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/2764.svg"
+          },
+          "count": 6
+        },
+        {
+          "emoji": {
+            "id": "1024512428161105970",
+            "name": "MEOWCAT",
+            "code": "MEOWCAT",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/1024512428161105970.png"
+          },
+          "count": 8
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83C\uDF7B",
+            "code": "beers",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f37b.svg"
+          },
+          "count": 6
+        },
+        {
+          "emoji": {
+            "id": "1036462358169649222",
+            "name": "Meowcoin",
+            "code": "Meowcoin",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/1036462358169649222.png"
+          },
+          "count": 4
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "1046977392196993065",
+      "type": "Default",
+      "timestamp": "2022-11-29T02:34:22.199+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**UPDATE - PURSE**\n\nHi @everyone.\n\nWe have some good news - the Purse is looking to be expanded out to be asset aware. What this means is that NFT's you buy on Meowcoin can be safely stored on Purse. You will also be able to mint assets too - so for NFT lovers, you can create your own utilising the software.\n\nThis means we need to pause use of Purse to do the necessary changes to the code before bringing it back up and live. Please forgive us for this interruption to service; if you are in any undue stress because of this, please feel free to reach out to me and we can work something out. \n\nThe interruption should only be for 24hrs or so. We'll advise if this timeline changes. \n\nThank you.",
+      "author": {
+        "id": "1014698455400190013",
+        "name": ".meowman",
+        "discriminator": "0000",
+        "nickname": "MeowMan1984",
+        "color": "#CEF031",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1014698455400190013/6cbf6631eed13e5b247b3673e244c85f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDE4F",
+            "code": "pray",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f64f.svg"
+          },
+          "count": 11
+        },
+        {
+          "emoji": {
+            "id": "1036462358169649222",
+            "name": "Meowcoin",
+            "code": "Meowcoin",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/1036462358169649222.png"
+          },
+          "count": 11
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83C\uDF7B",
+            "code": "beers",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f37b.svg"
+          },
+          "count": 9
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "1047340190865313863",
+      "type": "Default",
+      "timestamp": "2022-11-30T02:36:00.142+00:00",
+      "timestampEdited": "2022-11-30T02:37:56.898+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**UPDATE - PURSE 2.0**\n\n@everyone - Purse 2.0 is now live. \n\nA massive thank you to @Neurofluxation for the work he has done on this.\n\nIt is now asset aware; which was what we wanted to achieve with this update. Ensure to do a CTRL+F5 refresh in your browser to ensure you have cleared your browser cache.\n\nPlease give it a whirl and let us know your thoughts \uD83D\uDE42",
+      "author": {
+        "id": "1014698455400190013",
+        "name": ".meowman",
+        "discriminator": "0000",
+        "nickname": "MeowMan1984",
+        "color": "#CEF031",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1014698455400190013/6cbf6631eed13e5b247b3673e244c85f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "♥️",
+            "code": "hearts",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/2665.svg"
+          },
+          "count": 11
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "Ⓜ️",
+            "code": "m",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/24c2.svg"
+          },
+          "count": 4
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83E\uDD73",
+            "code": "partying_face",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f973.svg"
+          },
+          "count": 2
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83C\uDDF5",
+            "code": "regional_indicator_p",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f1f5.svg"
+          },
+          "count": 3
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83C\uDDFA",
+            "code": "regional_indicator_u",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f1fa.svg"
+          },
+          "count": 3
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83C\uDDF7",
+            "code": "regional_indicator_r",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f1f7.svg"
+          },
+          "count": 3
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83C\uDDF8",
+            "code": "regional_indicator_s",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f1f8.svg"
+          },
+          "count": 3
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83C\uDDEA",
+            "code": "regional_indicator_e",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f1ea.svg"
+          },
+          "count": 3
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83C\uDDFB",
+            "code": "regional_indicator_v",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f1fb.svg"
+          },
+          "count": 2
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "✌️",
+            "code": "v",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/270c.svg"
+          },
+          "count": 3
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDD25",
+            "code": "fire",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f525.svg"
+          },
+          "count": 5
+        },
+        {
+          "emoji": {
+            "id": "1024512428161105970",
+            "name": "MEOWCAT",
+            "code": "MEOWCAT",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/1024512428161105970.png"
+          },
+          "count": 4
+        }
+      ],
+      "mentions": [
+        {
+          "id": "555567936207847425",
+          "name": "neurofluxation",
+          "discriminator": "0000",
+          "nickname": "Neurofluxation",
+          "color": null,
+          "isBot": false,
+          "avatarUrl": "https://cdn.discordapp.com/avatars/555567936207847425/ff449caf6ccb7180556df20cdff74a6d.png?size=512"
+        }
+      ]
+    },
+    {
+      "id": "1047340717623758938",
+      "type": "Default",
+      "timestamp": "2022-11-30T02:38:05.731+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://purse.mewccrypto.com",
+      "author": {
+        "id": "1014701559101263885",
+        "name": ".meowmancer",
+        "discriminator": "0000",
+        "nickname": "Meowmancer",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1014701559101263885/06cf4b9255f0671601cda8a67d56ee7c.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Meowcoin Web Wallet",
+          "url": "https://purse.mewccrypto.com/",
+          "timestamp": null,
+          "description": "A secure web-based wallet for Meowcoin.",
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "1036462358169649222",
+            "name": "Meowcoin",
+            "code": "Meowcoin",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/1036462358169649222.png"
+          },
+          "count": 8
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "1047485786032971847",
+      "type": "Default",
+      "timestamp": "2022-11-30T12:14:32.735+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@everyone - just an FYI that we had to upgrade our server due to hardware limits we were pushing. Apologies for any issues. \n\nWe're currently re-synching the block chain. This may take a little bit of time but will be completed shortly. \n\nPlease reach out to a @Meowcoin Staff if you're having any issues.",
+      "author": {
+        "id": "1014698455400190013",
+        "name": ".meowman",
+        "discriminator": "0000",
+        "nickname": "MeowMan1984",
+        "color": "#CEF031",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1014698455400190013/6cbf6631eed13e5b247b3673e244c85f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDC4D",
+            "code": "thumbsup",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f44d.svg"
+          },
+          "count": 10
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "1047494510306934803",
+      "type": "Default",
+      "timestamp": "2022-11-30T12:49:12.764+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@everyone full functionality of the explorer and web wallet ‘purse’ has been restored. Thank you for your patience.",
+      "author": {
+        "id": "116447773188030464",
+        "name": "mana4093",
+        "discriminator": "0000",
+        "nickname": "Mana",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/116447773188030464/3c998ad8e532fe921ec8907b8f8ec3a9.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDE4F",
+            "code": "pray",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f64f.svg"
+          },
+          "count": 11
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83E\uDD73",
+            "code": "partying_face",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f973.svg"
+          },
+          "count": 8
+        },
+        {
+          "emoji": {
+            "id": "667863613423484971",
+            "name": "dancecat",
+            "code": "dancecat",
+            "isAnimated": true,
+            "imageUrl": "https://cdn.discordapp.com/emojis/667863613423484971.gif"
+          },
+          "count": 6
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83C\uDF7B",
+            "code": "beers",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f37b.svg"
+          },
+          "count": 4
+        },
+        {
+          "emoji": {
+            "id": "1036462358169649222",
+            "name": "Meowcoin",
+            "code": "Meowcoin",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/1036462358169649222.png"
+          },
+          "count": 4
+        },
+        {
+          "emoji": {
+            "id": "1024512428161105970",
+            "name": "MEOWCAT",
+            "code": "MEOWCAT",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/1024512428161105970.png"
+          },
+          "count": 3
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDE3B",
+            "code": "heart_eyes_cat",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f63b.svg"
+          },
+          "count": 3
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83E\uDE84",
+            "code": "magic_wand",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1fa84.svg"
+          },
+          "count": 3
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "1054973964151164968",
+      "type": "Default",
+      "timestamp": "2022-12-21T04:09:53.522+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**UPDATE**\n\nHi @everyone\n\nFirstly, we at Meowcoin wish you and yours a restful and merry Christmas break. May you enjoy the time to spend with loved ones.\n\nSecondly, we’ve got a few things we’d like to keep you updated on. Both @α | crypticwizardry.com and @nameless  have been busy bees so we thank them for all they’re doing. \n\n1.    We now have a https://node-map.mewccrypto.com/ for use. What this does is show us the spread of nodes in our network. How can you help? Well, if you feel so inclined, we’d love you to run a node!! This will help speed our network up and improve its service to you all. See here for how to set up a node:\n2.    Sadly, the fluctuations in price mean we are going to reduce our donations to $500 per week. This is a temporary thing and we’ll be increasing donations again when we can afford to do so with price.\n3.    We’re getting close to finalising a third animal shelter partner (who you all might know) and we have an exciting surprise that will go with it. Stay tuned to see what it will be!\n4.    Work on Empawrium is starting now we’ve settled on developer partners. A bigger announcement will be made shortly (in #announcements) as it is a significant step forward, but rest assured things are progressing. \n5.     An asset explorer is also being worked on and is not too far away. This will be useful once more NFT's come onto the chain.\n\nAs general housekeeping, we wish to **recommend** in the **firmest possible way **that, for the safety of your funds – and no matter what it is you own – please keep all coins you own off exchange. Never forget - *not your keys, not your wallet*…",
+      "author": {
+        "id": "1014698455400190013",
+        "name": ".meowman",
+        "discriminator": "0000",
+        "nickname": "MeowMan1984",
+        "color": "#CEF031",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1014698455400190013/6cbf6631eed13e5b247b3673e244c85f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Meownodes",
+          "url": "https://node-map.mewccrypto.com/",
+          "timestamp": null,
+          "description": "Meownodes: Meowcoin Node Summary Statistics",
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "579008074384146442",
+            "name": "fuego",
+            "code": "fuego",
+            "isAnimated": true,
+            "imageUrl": "https://cdn.discordapp.com/emojis/579008074384146442.gif"
+          },
+          "count": 25
+        },
+        {
+          "emoji": {
+            "id": "1036462358169649222",
+            "name": "Meowcoin",
+            "code": "Meowcoin",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/1036462358169649222.png"
+          },
+          "count": 12
+        },
+        {
+          "emoji": {
+            "id": "1024512428161105970",
+            "name": "MEOWCAT",
+            "code": "MEOWCAT",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/1024512428161105970.png"
+          },
+          "count": 10
+        },
+        {
+          "emoji": {
+            "id": "667863613423484971",
+            "name": "dancecat",
+            "code": "dancecat",
+            "isAnimated": true,
+            "imageUrl": "https://cdn.discordapp.com/emojis/667863613423484971.gif"
+          },
+          "count": 8
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDE80",
+            "code": "rocket",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f680.svg"
+          },
+          "count": 8
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "❤️",
+            "code": "heart",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/2764.svg"
+          },
+          "count": 6
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83C\uDDF2",
+            "code": "regional_indicator_m",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f1f2.svg"
+          },
+          "count": 8
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83C\uDDEA",
+            "code": "regional_indicator_e",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f1ea.svg"
+          },
+          "count": 7
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83C\uDDF4",
+            "code": "regional_indicator_o",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f1f4.svg"
+          },
+          "count": 7
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83C\uDDFC",
+            "code": "regional_indicator_w",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f1fc.svg"
+          },
+          "count": 7
+        }
+      ],
+      "mentions": [
+        {
+          "id": "234948464809738240",
+          "name": "name._.less",
+          "discriminator": "0000",
+          "nickname": "nameless",
+          "color": null,
+          "isBot": false,
+          "avatarUrl": "https://cdn.discordapp.com/avatars/234948464809738240/bad11b3859452e26ececf4acf010347b.png?size=512"
+        },
+        {
+          "id": "698290465858125913",
+          "name": "psychedelicSpectrum01",
+          "discriminator": "8606",
+          "nickname": "α | crypticwizardry.com",
+          "color": null,
+          "isBot": false,
+          "avatarUrl": "https://cdn.discordapp.com/avatars/698290465858125913/11488ad9a8402ee877eedb6ae3d1d920.png?size=512"
+        }
+      ]
+    },
+    {
+      "id": "1064286416030421082",
+      "type": "Default",
+      "timestamp": "2023-01-15T20:54:15.067+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Dear @everyone \n\nCan Purse users please check their balances for any transactions on the 4th of Jan they did not process.\n\nSadly, someone we trusted has acted in an untrustworthy way and impacted on a small number of Purse wallets.\n\nIf you are impacted, please DM either @Meowmancer  or myself so we can assist you.\n\nIf all other Purse users could withdraw back to Core, we would appreciate that. We’re in the process of spinning up a new Purse instance with a slight change that will ensure no other issues can occur.\n\nWe’re also working to get Zelcore online ASAP.\n\nAny Q’s, hit up #\uD83D\uDC08cat-chat",
+      "author": {
+        "id": "1014698455400190013",
+        "name": ".meowman",
+        "discriminator": "0000",
+        "nickname": "MeowMan1984",
+        "color": "#CEF031",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1014698455400190013/6cbf6631eed13e5b247b3673e244c85f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "1024512428161105970",
+            "name": "MEOWCAT",
+            "code": "MEOWCAT",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/1024512428161105970.png"
+          },
+          "count": 22
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83E\uDE84",
+            "code": "magic_wand",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1fa84.svg"
+          },
+          "count": 12
+        },
+        {
+          "emoji": {
+            "id": "1039329289071501383",
+            "name": "cig",
+            "code": "cig",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/1039329289071501383.png"
+          },
+          "count": 6
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83C\uDDF2",
+            "code": "regional_indicator_m",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f1f2.svg"
+          },
+          "count": 4
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83C\uDDEA",
+            "code": "regional_indicator_e",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f1ea.svg"
+          },
+          "count": 5
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83C\uDDF4",
+            "code": "regional_indicator_o",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f1f4.svg"
+          },
+          "count": 5
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83C\uDDFC",
+            "code": "regional_indicator_w",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f1fc.svg"
+          },
+          "count": 5
+        }
+      ],
+      "mentions": [
+        {
+          "id": "1014701559101263885",
+          "name": ".meowmancer",
+          "discriminator": "0000",
+          "nickname": "Meowmancer",
+          "color": null,
+          "isBot": false,
+          "avatarUrl": "https://cdn.discordapp.com/avatars/1014701559101263885/06cf4b9255f0671601cda8a67d56ee7c.png?size=512"
+        }
+      ]
+    },
+    {
+      "id": "1081022673892691971",
+      "type": "Default",
+      "timestamp": "2023-03-03T01:18:09.886+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@everyone Check out this video from Edinburgh! https://twitter.com/meowcoinlol/status/1631463645409320960?s=46&t=rvFK9z6c5D2RLRBM6JhOhg",
+      "author": {
+        "id": "1014701559101263885",
+        "name": ".meowmancer",
+        "discriminator": "0000",
+        "nickname": "Meowmancer",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1014701559101263885/06cf4b9255f0671601cda8a67d56ee7c.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": "https://twitter.com/meowcoinlol/status/1631463645409320960?s=46&t=rvFK9z6c5D2RLRBM6JhOhg",
+          "timestamp": "2023-03-03T01:16:58.851+00:00",
+          "description": "@EdinDogCatHome  made a video about some of the things they are doing and how #Meowcoin has impacted their operations. \n\nVery cool to see what you are doing is making a difference. \n\nCheck it out: https://t.co/UaP5ouFYu2\n\n$MEWC",
+          "color": "#1DA1F2",
+          "author": {
+            "name": "Meowcoin (@meowcoinlol)",
+            "url": "https://twitter.com/meowcoinlol",
+            "iconUrl": "https://images-ext-2.discordapp.net/external/KF2A3SpBaXoRX9njhsf6erIKSncT9ICsKAjTDn83JK0/https/pbs.twimg.com/profile_images/1564210128881999872/tr-yl8Wm_400x400.jpg"
+          },
+          "footer": {
+            "text": "Twitter",
+            "iconUrl": "https://images-ext-1.discordapp.net/external/bXJWV2Y_F3XSra_kEqIYXAAsI3m1meckfLhYuWzxIfI/https/abs.twimg.com/icons/apple-touch-icon-192x192.png"
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "❤️",
+            "code": "heart",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/2764.svg"
+          },
+          "count": 20
+        },
+        {
+          "emoji": {
+            "id": "1036462358169649222",
+            "name": "Meowcoin",
+            "code": "Meowcoin",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/1036462358169649222.png"
+          },
+          "count": 9
+        },
+        {
+          "emoji": {
+            "id": "1060466222564646932",
+            "name": "rainbowcat",
+            "code": "rainbowcat",
+            "isAnimated": true,
+            "imageUrl": "https://cdn.discordapp.com/emojis/1060466222564646932.gif"
+          },
+          "count": 7
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83C\uDDF2",
+            "code": "regional_indicator_m",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f1f2.svg"
+          },
+          "count": 5
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83C\uDDEA",
+            "code": "regional_indicator_e",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f1ea.svg"
+          },
+          "count": 3
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83C\uDDF4",
+            "code": "regional_indicator_o",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f1f4.svg"
+          },
+          "count": 4
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83C\uDF89",
+            "code": "tada",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f389.svg"
+          },
+          "count": 6
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83C\uDDFC",
+            "code": "regional_indicator_w",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f1fc.svg"
+          },
+          "count": 3
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDCAA",
+            "code": "muscle",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f4aa.svg"
+          },
+          "count": 4
+        },
+        {
+          "emoji": {
+            "id": "1039329289071501383",
+            "name": "cig",
+            "code": "cig",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/1039329289071501383.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDCAA\uD83C\uDFFB",
+            "code": "muscle_tone1",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f4aa-1f3fb.svg"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "1088036396809330698",
+      "type": "Default",
+      "timestamp": "2023-03-22T09:48:11.738+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Hi @everyone \n\nWe reached out to the team at Forgotten Animals and got some insight to what is going on. There is a two part update (I won't ping the second; just read from here) and some photo's they've sent through. \n\nTo be honest, the update and photos are a bit of a tear jerker. Knowing we've played a role in helping these people is deeply moving and makes me so glad we're doing what we're doing. \n\nI hope it warms your heart as much as it does mine. \n\n> Dear Andrew and the Meowcoin team,\n> \n> Thanks to the continuous support of the amazing crypto community, we are able to keep our work in Ukraine supporting volunteers and shelters in destroyed and occupied cities, making sure thousands of animals are rescued, fed, treated, neutered, cared for and many rehomed, allowing volunteers to rescue more in their place. We were also involved in providing emergency relief to animals after the Turkey earthquake through one of our volunteers currently based there and working directly on the ground.\n> \n> As the public interest toward the situation in Ukraine sadly wanes, the country's animal welfare activists, more than ever, are in dire need of any support to come their way – the number of abandoned animals and pets who lost their owners and their homes is huge and is growing every day. Over the past months, our focus remained on providing free neutering services across Ukraine in cities like Sumy, Belopolye , Kramatorsk Dnipro, Kherson and others, which tremendously alleviates the workload for volunteers, as there is not enough food to feed all the animals. \n> \n> Since the last update in November, with your overall contribution of 3000 USD we were able to neuter about 80 animals (the average cost of neutering is 25 USD), thus preventing thousands of kittens and puppies from being born to suffer and have nearly zero chance at a safe life. 500 USD was spent on emergency food and vet supplies for animals during the Turkey earthquake. The rest of funds went into providing emergency food for animals kept in shelters and those cared for by the brave volunteers, who stayed behind despite the war to help animals in need. \n> \n> Overall, since the war began in February 2022, we sterilized over 1550 cats and dogs and counting – we had to reduce the number of cities we can work in now, due to drastically reduced funding, but our campaign is currently active in 3  cities across Ukraine and we can keep adding locations if the funding and the veterinarian services availability allow it.\n> \n> Please see attached some pictures of the animals we've helped thanks to your support, below are their stories. We are very grateful to the crypto community for their generosity.",
+      "author": {
+        "id": "1014698455400190013",
+        "name": ".meowman",
+        "discriminator": "0000",
+        "nickname": "MeowMan1984",
+        "color": "#CEF031",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1014698455400190013/6cbf6631eed13e5b247b3673e244c85f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "❤️",
+            "code": "heart",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/2764.svg"
+          },
+          "count": 8
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "1088036588484821015",
+      "type": "Default",
+      "timestamp": "2023-03-22T09:48:57.437+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "> **1)  Turkey**\n> Last month Turkey and Syria experienced massive earthquakes that destroyed thousands of buildings and left around 50,000 people dead and more injured. Devastated houses and displaced families mean thousands of abandoned animals, and, unfortunately, they are often the last to be rescued, we try to do our best with the resources we have and help as many as we can. Being on a mission to provide help where it’s most urgent, we teamed up with a local group of volunteers in Turkey that provided immediate response to the remote villages in the Kahramanmaraş province - where the aid doesn't often reach as quickly as it's needed. They delivered food, medicine, and other necessary animal supplies, as well as transportation to evacuate animals to safer locations.\n> \n> **2) Mariupol, Ukraine**\n> Anzhelika from Mariupol is one of those \"invisible heroes\" who save animals abandoned due to the war. Now she's taking care of more than 30 cats. Some of them were supposed to be given to foster families but didn't find their homes due to the war. But most of the cats she saved after the war started. During the military operations in the city, Anzhelika had to wander around destroyed storages to find food for herself and her animals. If she saw another abandoned cat or a dog, she would take them home. Anzhelika would have already left ruined Mariupol, but her animals held her back because she would never abandon them.  Besides looking after and feeding her animals, Anzhelika is committed to treating, vaccinating and spaying and neutering them, all of which we helped with, so that Anzhelika can save more animals in need. \n> \n> **3) Moldova **\n> the war in Ukraine isn’t only hard on Ukrainians, the nearby counties are taking a hit, having to spread already limited resources to try and help millions of refugees running for their lives. Natalia from Moldova, Europe’s poorest country, cannot be defined as anything but a superhero. She rescued, sterilized and rehomed over 900 cats and many dogs, using only her very strained resources, animals of Moldova are simply lucky to have Natalia in their corner, their before and after pictures speak for themselves. We helped Natalia with sterilization of her rescued animals, so that she can find them a new home and take in more abandoned animals in need.",
+      "author": {
+        "id": "1014698455400190013",
+        "name": ".meowman",
+        "discriminator": "0000",
+        "nickname": "MeowMan1984",
+        "color": "#CEF031",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1014698455400190013/6cbf6631eed13e5b247b3673e244c85f.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "1088036586693853254",
+          "url": "https://cdn.discordapp.com/attachments/1017280740892868618/1088036586693853254/Mariupol_3.jpg",
+          "fileName": "Mariupol_3.jpg",
+          "fileSizeBytes": 44761
+        },
+        {
+          "id": "1088036586974887976",
+          "url": "https://cdn.discordapp.com/attachments/1017280740892868618/1088036586974887976/Mariupol_2.jpg",
+          "fileName": "Mariupol_2.jpg",
+          "fileSizeBytes": 44783
+        },
+        {
+          "id": "1088036587247513610",
+          "url": "https://cdn.discordapp.com/attachments/1017280740892868618/1088036587247513610/Moldova_2.jpg",
+          "fileName": "Moldova_2.jpg",
+          "fileSizeBytes": 49604
+        },
+        {
+          "id": "1088036587511758909",
+          "url": "https://cdn.discordapp.com/attachments/1017280740892868618/1088036587511758909/Mariupol_1.jpg",
+          "fileName": "Mariupol_1.jpg",
+          "fileSizeBytes": 50478
+        },
+        {
+          "id": "1088036587767607336",
+          "url": "https://cdn.discordapp.com/attachments/1017280740892868618/1088036587767607336/Moldova_3.jpg",
+          "fileName": "Moldova_3.jpg",
+          "fileSizeBytes": 127362
+        },
+        {
+          "id": "1088036588031852564",
+          "url": "https://cdn.discordapp.com/attachments/1017280740892868618/1088036588031852564/Moldova_4.jpg",
+          "fileName": "Moldova_4.jpg",
+          "fileSizeBytes": 342811
+        },
+        {
+          "id": "1088036588342226994",
+          "url": "https://cdn.discordapp.com/attachments/1017280740892868618/1088036588342226994/Moldova_5.jpg",
+          "fileName": "Moldova_5.jpg",
+          "fileSizeBytes": 299863
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "❤️",
+            "code": "heart",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/2764.svg"
+          },
+          "count": 17
+        },
+        {
+          "emoji": {
+            "id": "1024512428161105970",
+            "name": "MEOWCAT",
+            "code": "MEOWCAT",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/1024512428161105970.png"
+          },
+          "count": 10
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "1088036674006687745",
+      "type": "Default",
+      "timestamp": "2023-03-22T09:49:17.827+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "1014698455400190013",
+        "name": ".meowman",
+        "discriminator": "0000",
+        "nickname": "MeowMan1984",
+        "color": "#CEF031",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1014698455400190013/6cbf6631eed13e5b247b3673e244c85f.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "1088036673218158642",
+          "url": "https://cdn.discordapp.com/attachments/1017280740892868618/1088036673218158642/Turkey_1.jpg",
+          "fileName": "Turkey_1.jpg",
+          "fileSizeBytes": 129702
+        },
+        {
+          "id": "1088036673453035530",
+          "url": "https://cdn.discordapp.com/attachments/1017280740892868618/1088036673453035530/Turkey_2.jpg",
+          "fileName": "Turkey_2.jpg",
+          "fileSizeBytes": 296436
+        },
+        {
+          "id": "1088036673746632775",
+          "url": "https://cdn.discordapp.com/attachments/1017280740892868618/1088036673746632775/Turkey_3.jpg",
+          "fileName": "Turkey_3.jpg",
+          "fileSizeBytes": 799483
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "❤️",
+            "code": "heart",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/2764.svg"
+          },
+          "count": 35
+        },
+        {
+          "emoji": {
+            "id": "1024512428161105970",
+            "name": "MEOWCAT",
+            "code": "MEOWCAT",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/1024512428161105970.png"
+          },
+          "count": 20
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDE4F",
+            "code": "pray",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f64f.svg"
+          },
+          "count": 8
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDE0D",
+            "code": "heart_eyes",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f60d.svg"
+          },
+          "count": 7
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "1092990454427046020",
+      "type": "Default",
+      "timestamp": "2023-04-05T01:53:51.116+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**EXPLORER UPDATE**\n\nHi @everyone \n\nWe're currently doing some work on the Explorer to get it back up to full functionality.\n\nWe apologise for the inconvenience and will have this resolved within 24hrs.\n\nAny Q's, just reach out in #\uD83D\uDC08cat-chat",
+      "author": {
+        "id": "1014698455400190013",
+        "name": ".meowman",
+        "discriminator": "0000",
+        "nickname": "MeowMan1984",
+        "color": "#CEF031",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1014698455400190013/6cbf6631eed13e5b247b3673e244c85f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDC4D",
+            "code": "thumbsup",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f44d.svg"
+          },
+          "count": 19
+        },
+        {
+          "emoji": {
+            "id": "1053622811517800528",
+            "name": "meowcig",
+            "code": "meowcig",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/1053622811517800528.png"
+          },
+          "count": 2
+        },
+        {
+          "emoji": {
+            "id": "1024512428161105970",
+            "name": "MEOWCAT",
+            "code": "MEOWCAT",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/1024512428161105970.png"
+          },
+          "count": 4
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "1093503930941575258",
+      "type": "Reply",
+      "timestamp": "2023-04-06T11:54:13.457+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@everyone - Block Explorer is now back up and running. Please let us know if you experience any other hiccups.",
+      "author": {
+        "id": "1014698455400190013",
+        "name": ".meowman",
+        "discriminator": "0000",
+        "nickname": "MeowMan1984",
+        "color": "#CEF031",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1014698455400190013/6cbf6631eed13e5b247b3673e244c85f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83E\uDD1D",
+            "code": "handshake",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f91d.svg"
+          },
+          "count": 6
+        },
+        {
+          "emoji": {
+            "id": "1036462358169649222",
+            "name": "Meowcoin",
+            "code": "Meowcoin",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/1036462358169649222.png"
+          },
+          "count": 7
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDC4D",
+            "code": "thumbsup",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f44d.svg"
+          },
+          "count": 12
+        },
+        {
+          "emoji": {
+            "id": "1053622811517800528",
+            "name": "meowcig",
+            "code": "meowcig",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/1053622811517800528.png"
+          },
+          "count": 6
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDC4F",
+            "code": "clap",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f44f.svg"
+          },
+          "count": 4
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDE0D",
+            "code": "heart_eyes",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f60d.svg"
+          },
+          "count": 5
+        }
+      ],
+      "mentions": [],
+      "reference": {
+        "messageId": "1092990454427046020",
+        "channelId": "1017280740892868618",
+        "guildId": "1014698720987709542"
+      }
+    },
+    {
+      "id": "1093674276378382429",
+      "type": "Default",
+      "timestamp": "2023-04-06T23:11:06.974+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "We should be back on What to mine in the next 18 or so hours. @everyone",
+      "author": {
+        "id": "1014701559101263885",
+        "name": ".meowmancer",
+        "discriminator": "0000",
+        "nickname": "Meowmancer",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1014701559101263885/06cf4b9255f0671601cda8a67d56ee7c.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDC4D",
+            "code": "thumbsup",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f44d.svg"
+          },
+          "count": 19
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83E\uDD1D",
+            "code": "handshake",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f91d.svg"
+          },
+          "count": 7
+        },
+        {
+          "emoji": {
+            "id": "1024512428161105970",
+            "name": "MEOWCAT",
+            "code": "MEOWCAT",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/1024512428161105970.png"
+          },
+          "count": 4
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "1094841051660947516",
+      "type": "Default",
+      "timestamp": "2023-04-10T04:27:27.879+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@everyone We changed our twitter handle. New handle is @ Meowcoin2023",
+      "author": {
+        "id": "116447773188030464",
+        "name": "mana4093",
+        "discriminator": "0000",
+        "nickname": "Mana",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/116447773188030464/3c998ad8e532fe921ec8907b8f8ec3a9.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDCAA",
+            "code": "muscle",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f4aa.svg"
+          },
+          "count": 17
+        },
+        {
+          "emoji": {
+            "id": "1036462358169649222",
+            "name": "Meowcoin",
+            "code": "Meowcoin",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/1036462358169649222.png"
+          },
+          "count": 7
+        },
+        {
+          "emoji": {
+            "id": "1060466222564646932",
+            "name": "rainbowcat",
+            "code": "rainbowcat",
+            "isAnimated": true,
+            "imageUrl": "https://cdn.discordapp.com/emojis/1060466222564646932.gif"
+          },
+          "count": 5
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "1095117453698269284",
+      "type": "Default",
+      "timestamp": "2023-04-10T22:45:47.26+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@everyone Documentation for CMC update has been sent. Awaiting the change on their end at this point.",
+      "author": {
+        "id": "116447773188030464",
+        "name": "mana4093",
+        "discriminator": "0000",
+        "nickname": "Mana",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/116447773188030464/3c998ad8e532fe921ec8907b8f8ec3a9.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "1036462358169649222",
+            "name": "Meowcoin",
+            "code": "Meowcoin",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/1036462358169649222.png"
+          },
+          "count": 12
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDE3B",
+            "code": "heart_eyes_cat",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f63b.svg"
+          },
+          "count": 7
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "1095126800692154378",
+      "type": "Default",
+      "timestamp": "2023-04-10T23:22:55.757+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Documentation for Coingecko update has been sent. Awaiting change on their end.",
+      "author": {
+        "id": "116447773188030464",
+        "name": "mana4093",
+        "discriminator": "0000",
+        "nickname": "Mana",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/116447773188030464/3c998ad8e532fe921ec8907b8f8ec3a9.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "❤️",
+            "code": "heart",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/2764.svg"
+          },
+          "count": 9
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83C\uDF89",
+            "code": "tada",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f389.svg"
+          },
+          "count": 3
+        },
+        {
+          "emoji": {
+            "id": "1024512428161105970",
+            "name": "MEOWCAT",
+            "code": "MEOWCAT",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/1024512428161105970.png"
+          },
+          "count": 4
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "1095304569925402624",
+      "type": "Default",
+      "timestamp": "2023-04-11T11:09:19.245+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "CMC supply has been updated.\n\nTwitter link is out of date, they missed that part of the request. I have followed up with them to have this resolved.\n\nCoingecko has confirmed the data, but has not pushed the data live yet. Hopefully soon. \n\nthx all.",
+      "author": {
+        "id": "116447773188030464",
+        "name": "mana4093",
+        "discriminator": "0000",
+        "nickname": "Mana",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/116447773188030464/3c998ad8e532fe921ec8907b8f8ec3a9.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "❤️",
+            "code": "heart",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/2764.svg"
+          },
+          "count": 8
+        },
+        {
+          "emoji": {
+            "id": "1036462358169649222",
+            "name": "Meowcoin",
+            "code": "Meowcoin",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/1036462358169649222.png"
+          },
+          "count": 3
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDCAA\uD83C\uDFFB",
+            "code": "muscle_tone1",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f4aa-1f3fb.svg"
+          },
+          "count": 2
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "1095850518515028168",
+      "type": "Default",
+      "timestamp": "2023-04-12T23:18:43.532+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Twitter page link on CMC has been updated.",
+      "author": {
+        "id": "116447773188030464",
+        "name": "mana4093",
+        "discriminator": "0000",
+        "nickname": "Mana",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/116447773188030464/3c998ad8e532fe921ec8907b8f8ec3a9.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83E\uDD73",
+            "code": "partying_face",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f973.svg"
+          },
+          "count": 5
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDE3A",
+            "code": "smiley_cat",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f63a.svg"
+          },
+          "count": 2
+        },
+        {
+          "emoji": {
+            "id": "1036462358169649222",
+            "name": "Meowcoin",
+            "code": "Meowcoin",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/1036462358169649222.png"
+          },
+          "count": 3
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83C\uDF6D",
+            "code": "lollipop",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f36d.svg"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDC4D",
+            "code": "thumbsup",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f44d.svg"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "1096309943705030757",
+      "type": "Default",
+      "timestamp": "2023-04-14T05:44:19.033+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Coingecko has now been updated. I am aware our twitter link on Coingecko is outdated. I will pester them to fix this over the coming days.",
+      "author": {
+        "id": "116447773188030464",
+        "name": "mana4093",
+        "discriminator": "0000",
+        "nickname": "Mana",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/116447773188030464/3c998ad8e532fe921ec8907b8f8ec3a9.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83C\uDF7B",
+            "code": "beers",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f37b.svg"
+          },
+          "count": 14
+        },
+        {
+          "emoji": {
+            "id": "1036462358169649222",
+            "name": "Meowcoin",
+            "code": "Meowcoin",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/1036462358169649222.png"
+          },
+          "count": 10
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83C\uDF6D",
+            "code": "lollipop",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f36d.svg"
+          },
+          "count": 7
+        }
+      ],
+      "mentions": []
+    }
+  ],
+  "messageCount": 27
+}

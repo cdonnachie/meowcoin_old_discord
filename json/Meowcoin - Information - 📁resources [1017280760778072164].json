@@ -1,0 +1,45 @@
+{
+  "guild": {
+    "id": "1014698720987709542",
+    "name": "Meowcoin",
+    "iconUrl": "https://cdn.discordapp.com/icons/1014698720987709542/cbfdac18d3b13135885e6d63b34028ee.png?size=512"
+  },
+  "channel": {
+    "id": "1017280760778072164",
+    "type": "GuildTextChat",
+    "categoryId": "1017280535023853568",
+    "category": "Information",
+    "name": "\uD83D\uDCC1resources",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "messages": [
+    {
+      "id": "1123356286097035284",
+      "type": "Default",
+      "timestamp": "2023-06-27T20:56:49.556+00:00",
+      "timestampEdited": "2023-07-02T19:59:34.923+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": true,
+      "content": "**Main Links**\nWebsite: https://www.mewccrypto.org/\n\n**Markets/Exchanges**\nTradeogre - LTC and USDT https://tradeogre.com/exchange/LTC-MEWC\nBitoreum - BTC and USDT: https://www.bitoreum.exchange/\nTxbit - BTC and USDT: https://txbit.io/Trade/MEWC/USDT\nGraviex - BTC, LTC and USDT: https://graviex.net/markets/mewcusdt\n\n**Pool Links**\nhttps://minerpool.pro/\nhttps://woolypooly.com/en\nhttps://pool.rplant.xyz/\nhttps://www.papyminer.com/coin/MEWC/home\n\n**Price Tracker**\nBinance: https://www.binance.com/en/price/meowcoin\nCoingecko: https://coinmarketcap.com/currencies/meowcoin\nCoinmarketcap: https://www.coingecko.com/en/coins/meowcoin\n\n**Social Networks**\nTwitter: https://twitter.com/meowcoinlol",
+      "author": {
+        "id": "320691400540815360",
+        "name": "meowman1984",
+        "discriminator": "0000",
+        "nickname": "MeowMan1984",
+        "color": "#CEF031",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/320691400540815360/327ca609e03218451403f73d3027c824.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    }
+  ],
+  "messageCount": 1
+}

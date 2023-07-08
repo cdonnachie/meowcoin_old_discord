@@ -1,0 +1,246 @@
+{
+  "guild": {
+    "id": "1014698720987709542",
+    "name": "Meowcoin",
+    "iconUrl": "https://cdn.discordapp.com/icons/1014698720987709542/cbfdac18d3b13135885e6d63b34028ee.png?size=512"
+  },
+  "channel": {
+    "id": "1025930776887439481",
+    "type": "GuildTextChat",
+    "categoryId": "1017280535023853568",
+    "category": "Information",
+    "name": "\uD83D\uDCB0-coin-specs",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "messages": [
+    {
+      "id": "1025931295362134026",
+      "type": "Default",
+      "timestamp": "2022-10-02T00:44:41.696+00:00",
+      "timestampEdited": "2022-10-02T03:11:47.125+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Name:** MeowCoin\n**Ticker:** MEWC\n**Algorithm:** Kawpow\n**Type:** PoW\n**Total supply:** 21,000,000,000 \n**Premine**: 0\n**Block time:** 60 seconds\n**Block Reward:** 5,000 with a 60% miner split (3,000) and 40% donation/project fund splt (2,000)\n**Halving:** Every 4 years",
+      "author": {
+        "id": "116447773188030464",
+        "name": "mana4093",
+        "discriminator": "0000",
+        "nickname": "Mana",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/116447773188030464/3c998ad8e532fe921ec8907b8f8ec3a9.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "1024512428161105970",
+            "name": "MEOWCAT",
+            "code": "MEOWCAT",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/1024512428161105970.png"
+          },
+          "count": 81
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83C\uDDE8\uD83C\uDDE6",
+            "code": "flag_ca",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f1e8-1f1e6.svg"
+          },
+          "count": 30
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDD25",
+            "code": "fire",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f525.svg"
+          },
+          "count": 35
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83C\uDFC6",
+            "code": "trophy",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f3c6.svg"
+          },
+          "count": 22
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83C\uDDF9\uD83C\uDDF7",
+            "code": "flag_tr",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f1f9-1f1f7.svg"
+          },
+          "count": 17
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83C\uDDF5\uD83C\uDDF0",
+            "code": "flag_pk",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f1f5-1f1f0.svg"
+          },
+          "count": 17
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83C\uDDE8\uD83C\uDDF3",
+            "code": "flag_cn",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f1e8-1f1f3.svg"
+          },
+          "count": 15
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83C\uDDE7\uD83C\uDDF3",
+            "code": "flag_bn",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f1e7-1f1f3.svg"
+          },
+          "count": 12
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDE3B",
+            "code": "heart_eyes_cat",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f63b.svg"
+          },
+          "count": 17
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83C\uDDFA\uD83C\uDDF8",
+            "code": "flag_us",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f1fa-1f1f8.svg"
+          },
+          "count": 22
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83C\uDF89",
+            "code": "tada",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f389.svg"
+          },
+          "count": 15
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83C\uDDF3\uD83C\uDDFF",
+            "code": "flag_nz",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f1f3-1f1ff.svg"
+          },
+          "count": 10
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83C\uDFF4\uDB40\uDC67\uDB40\uDC62\uDB40\uDC65\uDB40\uDC6E\uDB40\uDC67\uDB40\uDC7F",
+            "code": "england",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f3f4-e0067-e0062-e0065-e006e-e0067-e007f.svg"
+          },
+          "count": 9
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83C\uDDF8\uD83C\uDDEA",
+            "code": "flag_se",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f1f8-1f1ea.svg"
+          },
+          "count": 11
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83C\uDDEE\uD83C\uDDF3",
+            "code": "flag_in",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f1ee-1f1f3.svg"
+          },
+          "count": 7
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83C\uDDF3\uD83C\uDDF4",
+            "code": "flag_no",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f1f3-1f1f4.svg"
+          },
+          "count": 7
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83C\uDDF8\uD83C\uDDEE",
+            "code": "flag_si",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f1f8-1f1ee.svg"
+          },
+          "count": 5
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83C\uDDE7\uD83C\uDDF7",
+            "code": "flag_br",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f1e7-1f1f7.svg"
+          },
+          "count": 5
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83C\uDDF9\uD83C\uDDED",
+            "code": "flag_th",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f1f9-1f1ed.svg"
+          },
+          "count": 6
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83C\uDDF5\uD83C\uDDF1",
+            "code": "flag_pl",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f1f5-1f1f1.svg"
+          },
+          "count": 7
+        }
+      ],
+      "mentions": []
+    }
+  ],
+  "messageCount": 1
+}
